@@ -7,3 +7,4 @@ Nachts leuchten die drei Monde, ein Gelber, ein Blauer und ein Roter, auf Myster
 Die Natur Mysterias ist wunderschön, es gibt unfassbar viele Arten, die noch niemand je zuvor gesehen hat und einfach durch einen Wald zu laufen, fühlt sich schon magisch an. Tiere nutzen, ohne es zu wissen, Magie, und manche Pflanzen führen ein Eigenleben. Kristallklare Gewässer ermöglichen es, bis auf den Grund in einigen Metern Tiefe zu schauen und die vielen verschiedenen Fische zu beobachten, die sich unter der Wasseroberfläche tummeln.
 
 ### <font color = "orange">Die Aufteilung von Mysteria</font>
+**Mysteria** ist durch eine große Bergkette aufgeteilt in zwei Haupt-Bereiche: [[Western Mysteria]] und [[Eastern Mysteria]]. Weiterhin gibt es [[Northern Mysteria|Northern-]] und [[Southern Mysteria]], die in großen Teilen Wastelands ähneln.

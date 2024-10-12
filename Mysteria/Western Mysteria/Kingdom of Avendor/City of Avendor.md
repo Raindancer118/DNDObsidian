@@ -77,3 +77,6 @@ Mit etwa 250.000 Einwohnern ist sie die größte Stadt Avendors. Das durchschnit
 [[Swift Defeat]]
 
 [[Tumblin‘ Rumors]]
+
+### <font color = "orange">Sehenswürdigkeiten</font>
+[[Grabstein von Felices Starbright]]
