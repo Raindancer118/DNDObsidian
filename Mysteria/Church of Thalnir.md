@@ -5,4 +5,4 @@
 >Der aktuelle High Priest ist 
 
 ### <font color = "orange">Niederlassungen</font>
-[[City of Avendor|Avendor]] - Die Niederlassung von Thalnir's Kirche in der City of Avendor wird von Hohepriesterin Verin verwaltet.
+[[City of Avendor|Avendor]] - Die Niederlassung von Thalnir's Kirche in der City of Avendor wird von Hohepriesterin [[Verin]] verwaltet.

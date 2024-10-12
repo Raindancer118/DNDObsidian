@@ -12,7 +12,7 @@ aliases:
 Mit etwa 250.000 Einwohnern ist sie die größte Stadt Avendors. Das durchschnittliche Alter sind 74 Jahre und die überwiegende Rasse ist Mensch, doch auch weitere Rassen wie Elfen, Zwerge und Halbelfen sind vertreten.
 
 ### <font color = "orange">Geschäfte</font>
-**Bank of Avendor**: Die Bank of Avendor ist die Niederlassung der riesigen Kette _[[Bank of Mysteria]]_ die überall, in fast allen Ländern Mysterias vertreten ist. Die Sicherheit dieser Bank ist ungeschlagen und ein einziger erfolgreicher Raub in den letzten 2.000 Jahren spricht für sich.
+**[[Bank of Avendor]]**: Die Bank of Avendor ist die Niederlassung der riesigen Kette _[[Bank of Mysteria]]_ die überall, in fast allen Ländern Mysterias vertreten ist. Die Sicherheit dieser Bank ist ungeschlagen und ein einziger erfolgreicher Raub in den letzten 2.000 Jahren spricht für sich.
 
 **[[BFC]]**: Brutally Fried Chicken ist eine von Orks betriebene Schnellimbisskette, die vor allem gegrillte Hühnchen verkauft.
 
@@ -40,4 +40,40 @@ Mit etwa 250.000 Einwohnern ist sie die größte Stadt Avendors. Das durchschnit
 
 **[[Target]]**: Dieses Geschäft bietet alles an, was Bogenschützen benötigen könnten. Es gibt Bögen, Zielscheiben, Pfeile und alles Weitere.
 
-**[[Wheels and Cabins Travel Solutions]]**: Verkauf von Wagen und verschiedenen Transportmitteln, die angespannt werden können
+**[[Wheels and Cabins Travel Solutions]]**: Verkauf von Wagen und verschiedenen Transportmitteln, die angespannt werden können.
+
+
+### <font color = "orange">Tavernen</font>
+**Die etwa 20 großen Tavernen laden zu Besuchen ein und viele kleinere sind an jeder dritten Straßenecke zu finden.**
+
+[[Booming Broom]]
+
+[[Crawling Coins]]
+
+[[Drinkin‘ Deep]]: Bekannte, aber eher kleine Taverne, in der man sich schneller wegsäuft, als man gucken kann, weil überall Trinkspiele gespielt werden. 
+
+[[Drinking Delight]]
+
+[[Hopes and Prayers]]
+
+[[Hoppin‘ Hoppers]]
+
+[[Magic Initiate]]
+
+[[Marad Ká]]
+
+[[Pen & Paper]]
+
+[[Robbed Rapes]]
+
+[[Running Hopes]]
+
+[[Sailor's Tavern]]
+
+[[Sleeping Spirits]]
+
+[[Sunken Three]]
+
+[[Swift Defeat]]
+
+[[Tumblin‘ Rumors]]
