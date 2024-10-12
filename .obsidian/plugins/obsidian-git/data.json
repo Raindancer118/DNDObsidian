@@ -1,7 +1,7 @@
 {
-  "commitMessage": "Vault Manual Upload: {{date}}",
+  "commitMessage": "Vault Manual Upload from {{hostname}}: {{date}}",
   "commitDateFormat": "DD-MM-YYYY",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 15,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
@@ -14,7 +14,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "Vault Auto Upload: {{date}}"
+  "autoCommitMessage": "Vault Auto Upload from {{hostname}}: {{date}}"
 }

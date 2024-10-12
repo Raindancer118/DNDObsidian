@@ -1,0 +1,8 @@
+[[Orb of Air]]
+[[Orb of Time]]
+[[The Orb of Earth]]
+[[Orb of Water]]
+[[Orb of Darkness]]
+[[Orb of Life]]
+[[Orb of Fire]]
+[[Orb of Light]]

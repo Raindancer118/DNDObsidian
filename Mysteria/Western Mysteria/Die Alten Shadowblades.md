@@ -1,3 +1,3 @@
 Bevor die Shadowblades ums Leben kamen, waren sie die größte und beste Söldnergruppe Mysterias. Sie wurden für alles angeheuert; wenn ein König ein Problem mit einem Drachen hatte, wenn ein verfeindetes Königreich dabei war, sich auf einen Krieg vorzubereiten und Vermittler notwendig waren, oder, wenn ein Waisenhaus gebaut werden musste.
 
-Angeführt wurden die Shadowblades von [[Felices]], einer Klerikerin Gadias.
+Angeführt wurden die Shadowblades von [[Felices Starbright]], einer Klerikerin Gadias.

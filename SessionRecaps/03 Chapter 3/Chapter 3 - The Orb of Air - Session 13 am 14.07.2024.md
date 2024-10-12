@@ -5,6 +5,6 @@ Wir haben Andronis verlassen und uns auf die Suche nach den Orbs gemacht, deren 
 
 Am Wasserfall angekommen hat [[Ga Gaw|Gary]] sich im Laderaum umgesehen und festgestellt, dass wir einen Ballon dabei hatten, der unser Boot zum Fliegenden Boot machen könnte. Wir haben also den Zeppelin-artigen Ballon mit heißer Luft gefüllt und dann abheben am Boot befestigt. Seitdem sind wir geflogen und da wir trotz allem noch das Steuer des Bootes verwenden können, war es Recht einfach, in Richtung des ersten Orbs auf unserer Liste zu navigieren.
 
-Mitten in der Nacht haben wir eine nahegelegene Stadt erreicht, die in der [[Ga Gaw|Gary]] im Gnome Depot einkaufen war.
+Mitten in der Nacht haben wir eine nahegelegene Stadt erreicht, die in der [[Ga Gaw|Gary]] im [[Gnome Depot]] einkaufen war.
 
 #analysis

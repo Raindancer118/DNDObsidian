@@ -1,0 +1,3 @@
+>[!INFO] **LORE**
+>SomeLore
+

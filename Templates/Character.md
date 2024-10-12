@@ -1,3 +1,5 @@
+# <font color = "orange">{{title}}</font>
+
 **Spieler:** spieler
 **Origin:** session
 **Race:** Rasse

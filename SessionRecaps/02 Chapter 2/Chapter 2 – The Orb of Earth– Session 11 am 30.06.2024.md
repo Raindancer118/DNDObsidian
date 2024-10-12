@@ -6,7 +6,7 @@ _Host: Ella & Hannah_
 
 Wir haben den Drachen näherkommen sehen. [[Ga Gaw|Gary]] hat schnell das Instant-Portal aus dem Gnome-Depot in das heiße Wasser im Lair geworfen und das Wasser hat angefangen, abzufließen, doch irgendwie wurde es nicht weniger. Anschließend haben wir alle Plättchen der Schwarzen Legion zerbrochen, die wir gefunden haben.
 
-[[Drax]] hat Dimension Door genutzt, um schnell auf die mittlere Insel mit dem Orb und dem Ei darauf zu kommen und hat sich dann den Orb geschnappt, woraufhin er ohnmächtig geworden ist. Um ihn zu retten, hat [[Maevvan]] sich mithilfe des Orbs of Earth und einem Elemental unter der schmalsten Stelle zwischen Land und der mittleren Insel mit dem Orb darauf durchgegraben.
+[[Drax]] hat Dimension Door genutzt, um schnell auf die mittlere Insel mit dem Orb und dem Ei darauf zu kommen und hat sich dann den Orb geschnappt, woraufhin er ohnmächtig geworden ist. Um ihn zu retten, hat [[Maevvan]] sich mithilfe des [[The Orb of Earth|Orbs of Earth]] und einem Elemental unter der schmalsten Stelle zwischen Land und der mittleren Insel mit dem Orb darauf durchgegraben.
 
 Wir haben alle zusammen die mittlere Insel erreicht, doch es war bereits zu spät. Der Drache hatte [[Drax]] gepackt, der gerade wieder aufwachte, und war dabei, mit heftigen Flügelschlägen aufzusteigen. Er spie Feuer und fast alle von uns erlagen diesem fatalen Angriff. Nur [[Idril]] konnte aus dem Tunnel heraus, in dessen Schutz sie gestanden hatte, schnell uns andere heilen. Kaum war er wieder bei sich, versorgte [[Maevvan]] zusammen mit [[Varia]] schnell die Wunden von uns anderen. Sein Elemental hatte das Feuer überlebt, sein Zombie jedoch nicht.
 
