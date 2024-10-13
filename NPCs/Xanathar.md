@@ -4,7 +4,7 @@
 >Kurze Zusammenfassung des Charakters
 
 >[!IMPORTANT] **Relationships**
->[[Verin]]: Xanathar ist mehr oder weniger mit [[Verin]] zusammen.
+>[[Verin Starbright]]: Xanathar ist mehr oder weniger mit [[Verin Starbright]] zusammen.
 
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant

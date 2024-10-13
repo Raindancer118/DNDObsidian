@@ -1,6 +1,6 @@
 **Spieler:** Dominik
 **Origin:** Session 17
-**Class:** Rogue
+**Class:** [[Rogue]]
 **Level:** 10
 
 >[!SUMMARY] **Zusammenfassung**

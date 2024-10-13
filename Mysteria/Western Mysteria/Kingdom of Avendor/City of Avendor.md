@@ -18,7 +18,7 @@ Mit etwa 250.000 Einwohnern ist sie die größte Stadt Avendors. Das durchschnit
 
 **[[Books n‘ Beer]]**: Berüchtigte Buchhandlung, die in einer Leseecke Bier ausschenkt 
 
-**[[Church of Thalnir]]**: Der Sitz von Thalnirs‘ Kirche in Avendor unter der Leitung von Hohepriesterin [[Verin]].
+**[[Church of Thalnir]]**: Der Sitz von Thalnirs‘ Kirche in Avendor unter der Leitung von Hohepriesterin [[Verin Starbright]].
 
 **[[Dibs on Drinks]]**: Ein Schnellimbiss, der alkoholische Getränke mit besonders hohem Prozentgehalt verkauft. Dies funktioniert allerdings eher nach dem Prinzip „Muss nicht schmecken, muss wirken“.
 

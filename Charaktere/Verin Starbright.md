@@ -1,6 +1,7 @@
 ---
 aliases:
   - Verins
+  - Verin
 ---
 **Spieler:** Johanna
 **Origin:** *Origin-Character*

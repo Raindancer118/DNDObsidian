@@ -1,7 +1,7 @@
 {
   "commitMessage": "Vault Manual Upload from {{hostname}}: {{date}}",
   "commitDateFormat": "DD-MM-YYYY",
-  "autoSaveInterval": 15,
+  "autoSaveInterval": 2,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
