@@ -15,10 +15,16 @@ PutImageHere
 >[!WARNING] **Stat-Info**
 >###### <font color = "orange">Modifier</font>
 >StatInfo
+>
+> ###### <font color = "orange">Spells</font>
+> SpellInfo
 
 >[!HINT] **Increases**
 >**10 Tage:** Effect
 >**20 Tage:** Effect
 >**30 Tage:** Effect
 >**40 Tage:** **No Vulnerability** to SpecificDamage
->**80 Tage:** **All Spells** use **1 Charge less to cast**
+>**80 Tage:** *Charge Reducer*
+
+>[!INFO] **Feat:** *Charge Reducer*
+>All spells you can cast with the Orb of Earth use one charge less, but at least **always one charge**.

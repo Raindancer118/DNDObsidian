@@ -5,4 +5,4 @@
 [[Orb of Darkness]]
 [[Orb of Life]]
 [[Orb of Fire]]
-[[Orb of Light]]
+[[The Orb of Light]]
