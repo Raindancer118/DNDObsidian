@@ -1,4 +1,3 @@
-
 # <font color = "orange">Chapter 4 - The Lost Lands - Session 18 am 13.10.2024</font>
 
 _Anwesende Spieler:_ Daniel, Dominik, Ella, Hannah, Johanna
@@ -26,14 +25,16 @@ Auch [[Idril]] und [[Varia]] versuchten, ihre Briefe zu verschicken. Nachdem sie
 Anschließend nahm er eine kleine Menge Gold ein, als er eine Schau vor den Stadttoren gab.
 Dort traf er auch auf [[Verin Starbright|Verin]], die gerade von ihrem Trip mit [[Xanathar]] zurückkehrte. Der hatte sich verabschiedet, weil er auf eine Beerdigung musste.
 
-Kaum wieder an Bord, landete ein Drache des Dragon Express mitsamt Courier auf dem Rücken auf unserem Schiff! Wir erhielten einige Einladungen zur Beerdigung von [[Felices Starbright]], denen wir natürlich gefolgt sind! Wir haben uns über den Teleportationskreis im Schiff auf den Weg zurück in unseren [[Shadowblades HQ|Tower]] gemacht, wo [[Verin Starbright|Verin]] kurz in die Bibliothek gegangen ist und sich die Namen der [[Die Alten Shadowblades|ehemaligen Shadowblades]] ansah. Sie fand, was sie suchte, allerdings stellte sie auch fest, dass sie auf der Liste der aktuellen Mitglieder der Shadowblades als die Anführerin gelistet war.
+Kaum wieder an Bord, landete ein Drache des Dragon Express mitsamt Courier auf dem Rücken auf unserem Schiff! Wir erhielten einige Einladungen zur Beerdigung von [[Felices Starbright]], denen wir natürlich gefolgt sind! Wir haben uns über den Teleportationskreis im Schiff auf den Weg zurück in unseren [[Shadowblades HQ|Tower]] gemacht, wo [[Verin Starbright|Verin]] kurz in die Bibliothek gegangen ist und sich die Namen der [[Die Alten Shadowblades|ehemaligen Shadowblades]] ansah. Sie fand, was sie suchte, allerdings stellte sie auch fest, dass sie auf der Liste der aktuellen Mitglieder der [[Shadowblades]] als die Anführerin gelistet war.
 
 Die Beerdigung verlief ruhig, es geschah nichts besonderes. Wir sahen [[Grabstein von Felices Starbright|Felices' Grabstein]] und ihre drei Kinder.
 
-Anschließend besuchte Verin ihre Kirche, wo sie kurzerhand den nächsten Gottesdienst übernahm.
+Anschließend besuchte [[Verin Starbright|Verin]] ihre Kirche, wo sie kurzerhand den nächsten Gottesdienst übernahm.
 
-Varia hingegen hatte sich vorgenommen, das Grab ihres Vaters zu besuchen, was sie auch tat. Zu ihrem Schrecken musste sie allerdings feststellen, dass das Grab aufgegraben und leer war - lediglich einige Spuren Diamantstaub am Boden deuteten darauf hin, was hier geschehen war. 
+[[Varia]] hingegen hatte sich vorgenommen, das Grab ihres Vaters zu besuchen, was sie auch tat. Zu ihrem Schrecken musste sie allerdings feststellen, dass das Grab aufgegraben und leer war - lediglich einige Spuren Diamantstaub am Boden deuteten darauf hin, was hier geschehen war. 
 
-Am Grab ihres Vaters fiel Varia auf die Knie und schwor den Oath of Vengance gegenüber Gadia. Seitdem 
+Am Grab ihres Vaters fiel [[Varia]] auf die Knie und schwor den Oath of Vengance gegenüber [[Gadia]]. Ihre Waffen und ihre Rüstungen luden sich erneut mit Heiliger Magie auf und sie spürte, wie ihre Kräfte als Paladinin zu ihr zurückkehrten.
+
+Wutentbrannt rannte sie zu [[Verin Starbright|Verin]] in die Kirche, auf der Suche nach Hilfe. Die war zwar gerade in einem Gottesdienst, schickte aber ihre Hilfspriesterin zur Hilfe. [[Varia]] nahm zwar an, ging aber gleich danach mit [[Telvoc]] und [[Idril]] zum Haus ihres Vaters am Marktplatz. [[Varia]] trat die Tür ein, während [[Idril]] und [[Telvoc]] durch das Fenster das Gebäude betraten. Darin waren drei Zwerge. Ein heftiger Kampf entbrannte, an dessen Ende wir mehr oder weniger unverletzt als Sieger hervorgingen. [[Varia]] fand auf dem Wohnzimmertisch einen Ring, der sie sehr an einen Ring of Wish erinnerte, weshalb sie sich vornahm, [[Idril]] zurück in ihre eigentliche Form zu verwandeln. Dummerweise schlug der Zauber fehl ... 
 
 #analysis
