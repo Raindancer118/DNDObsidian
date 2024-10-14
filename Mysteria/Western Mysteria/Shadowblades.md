@@ -2,13 +2,13 @@
 >Die Shadowblades sind eine in [[Kingdom of Avendor|Avendor]] ansässige Söldnergilde, die dafür bekannt ist, quasi unbesiegbar zu sein.
 
 >[!INFO] **Mitglieder**
+>**Anführerin: [[Verin Starbright]]**, Cleric of Thalnir
 >[[Ga Gaw|Gary]]
 >[[Solu]]
 >[[Maevvan]]
 >[[Telvoc]]
 >[[Oogway]]
 >[[Idril]]
->[[Verin Starbright]]
 >[[Varia]]
 
 Eine Zeit lang waren sie die kleinste Söldnergilde [[Kingdom of Avendor|Avendors]], mittlerweile sind sie es nicht mehr. Was sie jedoch mit Sicherheit sind – Die tödlichsten und besten Söldner Mysterias. Der Name der Shadowblades allein lässt Verbrecher überall im Land zusammenzucken und die schwarzen Klingen, die die Krieger tragen, verbreiten Tod und Verderben auf dem Schlachtfeld. 
