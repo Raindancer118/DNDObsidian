@@ -7,6 +7,7 @@ aliases:
 **Origin:** *Origin-Character*
 **Class:** [[Cleric]]
 **Level:** 10
+Race: [[Aasimar]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

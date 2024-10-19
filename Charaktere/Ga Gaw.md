@@ -6,6 +6,7 @@ aliases:
 **Origin:** *Origin-Character*
 **Class:** [[Sorcerer]]
 **Level:** 10
+Race: [[Aaracockra]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

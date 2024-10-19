@@ -2,6 +2,7 @@
 **Origin:** session
 **Class:** [[Monk]]
 **Level:** 10
+Race: [[Tortle]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

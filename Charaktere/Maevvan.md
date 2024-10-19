@@ -5,6 +5,7 @@ aliases: []
 **Origin:** *Origin-Character*
 **Class:** [[Druid]]
 **Level:** 10
+Race: [[Dwarf]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

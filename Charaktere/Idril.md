@@ -2,6 +2,7 @@
 **Origin:** *Origin-Character*
 **Class:** [[Druid]]
 **Level:** 10
+Race: [[Woodelf]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters
