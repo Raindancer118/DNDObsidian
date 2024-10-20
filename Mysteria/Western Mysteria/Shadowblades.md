@@ -1,3 +1,5 @@
+![[Shadowblade-Logo.png|300]]
+
 >[!SUMMARY] **Zusammenfassung**
 >Die Shadowblades sind eine in [[Kingdom of Avendor|Avendor]] ansässige Söldnergilde, die dafür bekannt ist, quasi unbesiegbar zu sein.
 
