@@ -1,9 +1,9 @@
 # <font color = "orange">Altherion</font>
 
 **NPC**
-**Origin:** session
-**Race:** Rasse
-**Class:** class
+**Origin:** *session not planned yet*
+**Race:** Half-Elf-Half-Drow
+**Class:** [[Sorcerer]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Altherion ist der Anführer der schwarzen Legion.
