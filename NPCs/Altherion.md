@@ -9,7 +9,7 @@
 >Altherion ist die Anführerin der [[Die Schwarze Legion|schwarzen Legion]].
 
 >[!INFO] **Aussehen**  
->**Haarfarbe:** schwarz, etwas länger als kurz, aber nicht kinnlang. Sie trägt sie für gewöhnlich in einem Mittelscheitel.  
+>**Haarfarbe:** schwarz, etwa hüftlang.  
 >**Augenfarbe:** sehr helles grau, fast weiß.  
 >**Hautfarbe:** Ein eher helleres Lila, was aufgrund ihrer Herkunft nicht verwunderlich ist.
 
