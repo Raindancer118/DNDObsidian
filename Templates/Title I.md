@@ -1,1 +1,1 @@
-# <font color = "orange">{{title}}</font>
+# <font color = 4d88fd>{{title}}</font>

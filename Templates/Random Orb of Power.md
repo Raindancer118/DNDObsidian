@@ -1,4 +1,4 @@
-# <font color = "orange">{{title}}</font>
+# <font color = 4d88fd>{{title}}</font>
 _Wonderous Item, Legendary_
 
 PutImageHere
