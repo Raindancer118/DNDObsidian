@@ -1,119 +1,87 @@
-**Menschen**  
-- Aric Thornvale  
-- Elara Windrider  
-- Jax Steelarm  
-- Merida Stonebrook  
-- Lyle Rivers  
-- Tessa Fairweather  
-- Bram Goodwin  
-- Nora Ashdown  
-- Cedric Marshfield  
-- Miren Kells  
+> [!HUMAN] **MENSCHEN**
+> - Aric Thornvale  
+> - Elara Windrider  
+> - Jax Steelarm  
+> - Merida Stonebrook  
+> - Lyle Rivers  
+> - Tessa Fairweather  
+> - Bram Goodwin  
+> - Nora Ashdown  
+> - Cedric Marshfield  
+> - Miren Kells  
+> - Orin Darkwood  
+> - Kara Lightfoot  
+> - Damon Riversong  
+> - Brigid Tallstag  
+> - Harlan Ironspoke  
+> - Freya Briarhill  
+> - Eamon Northwind  
+> - Sable Frostwhisper  
+> - Rowan Goldsmith  
+> - Vera Willowshade  
 
-**Elfen**  
-- Aelar Moonglow  
-- Faelar Silverleaf  
-- Thalia Starshadow  
-- Eryndor Brightblade  
-- Lirael Windwhisper  
-- Caelum Nightbloom  
-- Vanya Dawnspire  
-- Lianna Willowbark  
-- Taelarion Stormsong  
-- Myrin Starseeker  
+> [!ELF] **ELFEN**
+> - Aelar Moonglow  
+> - Faelar Silverleaf  
+> - Thalia Starshadow  
+> - Eryndor Brightblade  
+> - Lirael Windwhisper  
+> - Caelum Nightbloom  
+> - Vanya Dawnspire  
+> - Lianna Willowbark  
+> - Taelarion Stormsong  
+> - Myrin Starseeker  
+> - Eilana Shadowsong  
+> - Zareth Windcaller  
+> - Elloria Sunweaver  
+> - Vaelis Firebloom  
+> - Alarion Thistlecrest  
+> - Syldor Lightweaver  
+> - Kelraen Amberroot  
+> - Elowen Dewglade  
+> - Thalindra Leafstride  
+> - Soryn Frostpetal  
 
-**Zwerge**  
-- Gundar Ironhammer  
-- Bruna Flintbeard  
-- Thrain Deepstone  
-- Hilda Forgeflame  
-- Durin Rocksplitter  
-- Berra Copperbrew  
-- Magni Axebringer  
-- Freya Stoneheart  
-- Dain Silverhand  
-- Brynn Boulderfist  
+> [!HALF-ELF] **HALB-ELFEN**
+> - Lareth Greycloak  
+> - Tanith Embervale  
+> - Alanna Frostwind  
+> - Corwin Swiftarrow  
+> - Lyselle Brightsong  
+> - Fennian Darktide  
+> - Serris Fireborn  
+> - Nyella Moonthorn  
+> - Talin Shadebrook  
+> - Aelis Thornsong  
+> - Caelen Starlight  
+> - Lysandor Silentwing  
+> - Isara Moonveil  
+> - Theran Brighthollow  
+> - Deryn Mistwhisper  
+> - Aeris Greenhaven  
+> - Valen Starbreeze  
+> - Eryn Dawnsinger  
+> - Serana Briarheart  
+> - Lyndon Ironroot  
 
-**Halblinge**  
-- Merric Greenhill  
-- Sari Underbough  
-- Finnan Fleetfoot  
-- Ellywick Nimblesong  
-- Jory Tallfellow  
-- Lessa Puddlefoot  
-- Perin Brambleberry  
-- Kithri Tealeaf  
-- Hildigrim Mossroot  
-- Willow Tosscobble  
-
-**Tieflinge**  
-- Azazel Shadowhorn  
-- Lilith Emberglow  
-- Kaelos Thornspire  
-- Valira Bloodrose  
-- Sorin Darkwhisper  
-- Zarak Ironbane  
-- Miras Soulflare  
-- Talia Nightflame  
-- Dravik Voidcall  
-- Kallista Stormsin  
-
-**Orks**  
-- Grok Ironfang  
-- Shara Bloodaxe  
-- Grom Earthshaker  
-- Karga Bonebreaker  
-- Drugar Stoneclaw  
-- Ulda Stormcrusher  
-- Rugg Skullsplitter  
-- Magra Firegut  
-- Thragga Ironmaw  
-- Olgar Thunderfoot  
-
-**Gnome**  
-- Tinket Whistleforge  
-- Fizban Sparkgear  
-- Lirri Coppercoil  
-- Nimble Nocklepin  
-- Poggin Blinkscale  
-- Whirla Brighthop  
-- Wizzle Geargrip  
-- Glim Bottlebrew  
-- Fizzi Fizzlebang  
-- Bink Tinkerburr  
-
-**Drachengeborene**  
-- Drakon Firebrand  
-- Saresh Ironclaw  
-- Zynra Shadowfang  
-- Ralath Scalehide  
-- Krynn Ashenheart  
-- Thava Ironwing  
-- Krivath Emberstorm  
-- Morak Soulflare  
-- Syrrak Thunderfang  
-- Bahira Flamegaze  
-
-**Halb-Orks**  
-- Borog Skullcrusher  
-- Kira Wolfheart  
-- Thrall Fangblade  
-- Grelka Stonejaw  
-- Urgath Flintgrip  
-- Melka Frostmaw  
-- Drogar Thundermane  
-- Oskara Bloodborn  
-- Fargar Shadowfist  
-- Velka Darkfire  
-
-**Aasimar**  
-- Seraphiel Lightbearer  
-- Caelum Dawnguard  
-- Elysia Starfire  
-- Solana Sunheart  
-- Nirael Brightwing  
-- Lysander Moonwhisper  
-- Therion Goldenshield  
-- Valoria Skysinger  
-- Celeste Soulwarden  
-- Haliel Hopebringer  
+> [!FEY] **FEEN**
+> - Puck Tanglefoot  
+> - Elara Brightpetal  
+> - Thorn Whisperwind  
+> - Nimble Greenbough  
+> - Faera Dewdrop  
+> - Lyssandra Mistveil  
+> - Quill Fernsong  
+> - Zephyr Skyglade  
+> - Nyx Flutterdew  
+> - Berris Dapplebloom  
+> - Finn Willowwisp  
+> - Raelia Stormgleam  
+> - Moss Twigsnap  
+> - Breezy Lighthop  
+> - Gossamer Glimmerdew  
+> - Pinea Nightblossom  
+> - Mistral Breezefoot  
+> - Rowan Shimmershine  
+> - Tansy Starpetal  
+> - Thistle Quickgleam  
