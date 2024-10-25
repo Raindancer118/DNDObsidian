@@ -119,5 +119,6 @@ Wenn die Charaktere an einem Dorf in der östlichen Region Mysterias vorbeikomme
 
 - **Tharun Darkspine's Spellbook:** Enthält verschiedene Zauber und Rituale.
 - **Darkspine's Amulet:** Ein magisches Amulett, das dem Träger +1 auf Charisma gibt und einmal pro Langrast einen Zauberplatz der 1. Stufe regeneriert.
+- **[[Amulet of the Shifting Shadows]]**
 - **Treasure:** 100 Goldstücke und einige dunkle Artefakte, die aus der Ruine geborgen werden können.
 
