@@ -5,7 +5,7 @@
 Race: [[Woodelf]]
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+>Idril ist aufgrund eines Missgeschickes Varia nicht nur ein Vampir, sondern direkt ein [[Ascended Vampire]].
 
 >[!WARNING] **Besonderheiten**
 >Idril ist im Moment ein Vampir. Fließendes Wasser und Sonnenlicht schadet ihr und sie kann Häuser nicht betreten, ohne herein gebeten zu werden.
