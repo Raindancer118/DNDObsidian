@@ -9,7 +9,7 @@ Gemeinsam verließen der Barkeeper und [[Maevvan]] den Garten der Tavern. Zurüc
 
 Ein Kopfgeldjäger, der in der Taverne zugesehen hatte, was geschehen war, spürte das Schiff der Gruppe einen Tag später auf, nachdem ein Kopfgeld auf [[Idril]] und [[Oogway]] ausgesetzt worden war.
 
-[[Maevvan]] hatte sich entschieden, das Chaos zu nutzen, um sich bereits auf die Suche nach der [[Schwarze Legion|schwarzen Legion]] zu machen, weshalb er bei den Stadtwachen nachfragte, ob jemand seine Brüder gesehen habe, die ausschließlich schwarze Kleidung trugen. Nachdem er einen Hinweis erhalten hatte, machte er sich auf den Weg westlich zur nächsten Stadt.
+[[Maevvan]] hatte sich entschieden, das Chaos zu nutzen, um sich bereits auf die Suche nach der [[Die Schwarze Legion|schwarzen Legion]] zu machen, weshalb er bei den Stadtwachen nachfragte, ob jemand seine Brüder gesehen habe, die ausschließlich schwarze Kleidung trugen. Nachdem er einen Hinweis erhalten hatte, machte er sich auf den Weg westlich zur nächsten Stadt.
 
 Er verwandelte sich in einen Wolf und verfolgt eine Fährte in einen Wald, wo sich jedoch Herausstelle, dass es sich um eine Überlebende Druidin des Astral Lakes handelte.
 
