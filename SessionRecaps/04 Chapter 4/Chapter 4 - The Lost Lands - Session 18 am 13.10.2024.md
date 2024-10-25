@@ -1,4 +1,4 @@
-# <font color = "orange">Chapter 4 - The Lost Lands - Session 18 am 13.10.2024</font>
+# <font color = "orange">Chapter 4 - The [[Lost Lands]] - Session 18 am 13.10.2024</font>
 
 _Anwesende Spieler:_ Daniel, Dominik, Ella, Hannah, Johanna
 _Host:_ Ella & Hannah

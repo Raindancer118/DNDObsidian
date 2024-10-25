@@ -2,7 +2,7 @@
 aliases:
   - schwarzen Legion
 ---
->[!IMPORTANT] **DM's Secret Info: Lager in den Lost Lands**
+>[!IMPORTANT] **DM's Secret Info: Lager in den [[Lost Lands]]**
 >Die Schwarze Legion hat ein sehr großes Lager mitten in den [[Lost Lands]]. Von diesem aus haben sie sich gerade erst den [[Orb of Water]] geangelt.
 
 >[!IMPORTANT] **DM's Secret Info: Secret Allies**
