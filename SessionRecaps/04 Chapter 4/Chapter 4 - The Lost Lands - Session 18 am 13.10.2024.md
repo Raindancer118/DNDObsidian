@@ -19,7 +19,7 @@ Auch [[Idril]] und [[Varia]] versuchten, ihre Briefe zu verschicken. Nachdem sie
 
 [[Idril]] währenddessen entschied sich, ihre Briefe einfach nicht abzuschicken, weil sie leider ziemlich pleite war. 
 
-[[Telvoc]] nutzte die Zeit, während die anderen unterwegs waren, um einen der Magierräte der Stadt zu bestehlen. Er erbeutete so einen kleinen Mimic, der als Bag of Holding getarnt war, und es gelang ihm, diesen zu zähmen, indem er ihn an ein Rattenloch hielt und in ein anderes mittels einer Minor Illusion eine Katze projizierte. Außerdem besuchte er gemeinsam mit [[Ga Gaw|Gary]] das örtliche Gnome Depot, welches er durch eine "Produktdemonstration" nuklear verseuchte.
+[[Telvoc]] nutzte die Zeit, während die anderen unterwegs waren, um einen der Magierräte der Stadt zu bestehlen. Er erbeutete so einen kleinen Mimic, der als Bag of Holding getarnt war, und es gelang ihm, diesen zu zähmen, indem er ihn an ein Rattenloch hielt und in ein anderes mittels einer Minor Illusion eine Katze projizierte. Außerdem besuchte er gemeinsam mit [[Ga Gaw|Gary]] das örtliche Gnome Depot, welches er durch eine "Produktdemonstration" nuklear verseuchte. ^cd5232
 
 
 Anschließend nahm er eine kleine Menge Gold ein, als er eine Schau vor den Stadttoren gab.
