@@ -1,12 +1,12 @@
-# Feste und Bräuche: Die Kultur von Estralith
+# Feste und Bräuche: Die Kultur von [[Estralith]]
 
 **Einführung in die kulturelle Vielfalt Estraliths**  
-Estralith, ein Königreich bekannt für seinen Reichtum und Frieden, war nicht nur ein Ort des Handels und der Diplomatie, sondern auch ein Zentrum lebendiger kultureller Praktiken. Die Bewohner von Estralith lebten in Harmonie miteinander und feierten eine Vielzahl von Festen, die sowohl religiöse als auch saisonale Anlässe umfassten. Diese Feste dienten nicht nur der Freude, sondern auch der Stärkung der Gemeinschaft und der Bewahrung der Traditionen.
+[[Estralith]], ein Königreich bekannt für seinen Reichtum und Frieden, war nicht nur ein Ort des Handels und der Diplomatie, sondern auch ein Zentrum lebendiger kultureller Praktiken. Die Bewohner von [[Estralith]] lebten in Harmonie miteinander und feierten eine Vielzahl von Festen, die sowohl religiöse als auch saisonale Anlässe umfassten. Diese Feste dienten nicht nur der Freude, sondern auch der Stärkung der Gemeinschaft und der Bewahrung der Traditionen.
 
 ---
 
 **Die Jahresfeste: Ein Spiegel der Jahreszeiten**  
-Im Lauf des Jahres feierten die Menschen von Estralith verschiedene Feste, die oft mit den Jahreszeiten verbunden waren. 
+Im Lauf des Jahres feierten die Menschen von [[Estralith]] verschiedene Feste, die oft mit den Jahreszeiten verbunden waren. 
 
 - **Das Lichtfest:** Jedes Jahr zur Wintersonnenwende versammelten sich die Einwohner, um die Rückkehr des Lichts zu feiern. Kerzen und Fackeln wurden angezündet, und es gab Wettbewerbe in Geschicklichkeit und Geschichtenerzählen. Die Nacht war erfüllt von Musik und Tanz, um den Geist des Lichtes zu ehren, der das Reich beschützte.
 
@@ -15,7 +15,7 @@ Im Lauf des Jahres feierten die Menschen von Estralith verschiedene Feste, die o
 ---
 
 **Rituale und Zeremonien: Verbindung zu den Ahnen**  
-Die Rituale, die in Estralith praktiziert wurden, waren oft mit dem Glauben an die Ahnen und die Geister der Natur verbunden. Diese Zeremonien beinhalteten:
+Die Rituale, die in [[Estralith]] praktiziert wurden, waren oft mit dem Glauben an die Ahnen und die Geister der Natur verbunden. Diese Zeremonien beinhalteten:
 
 - **Das Ahnenritual:** Bei besonderen Anlässen versammelten sich die Dorfbewohner, um ihre Ahnen zu ehren. Ein Altar wurde aufgebaut, und Gaben wurden dargebracht, um die Geister um ihren Segen zu bitten. Es war eine Zeit, in der Geschichten über die Ahnen erzählt wurden, um die Verbundenheit mit der Vergangenheit zu pflegen.
 
@@ -33,4 +33,4 @@ Kunst und Musik waren in der Kultur Estraliths tief verwurzelt. Feste waren oft 
 ---
 
 **Schlussfolgerung: Ein lebendiges Erbe**  
-Die Feste und Bräuche von Estralith waren mehr als nur gesellschaftliche Ereignisse. Sie waren Ausdruck der Identität und der Einheit der Menschen. Auch wenn das Königreich gefallen ist, lebt das Erbe dieser Traditionen in den Geschichten und Erinnerungen der Überlebenden weiter, und sie erinnern sich an die Zeiten der Freude, des Lichts und der Gemeinschaft. In den Ruinen von Estralith hallen noch immer die Melodien der Feste wider, die einst das Leben der Menschen prägten.
+Die Feste und Bräuche von [[Estralith]] waren mehr als nur gesellschaftliche Ereignisse. Sie waren Ausdruck der Identität und der Einheit der Menschen. Auch wenn das Königreich gefallen ist, lebt das Erbe dieser Traditionen in den Geschichten und Erinnerungen der Überlebenden weiter, und sie erinnern sich an die Zeiten der Freude, des Lichts und der Gemeinschaft. In den Ruinen von [[Estralith]] hallen noch immer die Melodien der Feste wider, die einst das Leben der Menschen prägten.

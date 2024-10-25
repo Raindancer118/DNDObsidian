@@ -24,6 +24,6 @@ Als sich der Staub legte, blieb der Verbleib von Lichtbringer in ein Geheimnis g
 
 ## Ein Leuchtfeuer für zukünftige Generationen
 
-Obwohl Estralith in Ruinen liegt, lebt die Legende von Lichtbringer weiter. Sie dient als Erinnerung an den Mut und die Einheit, die einst unser Königreich prägten. Geschichten von seiner Macht inspirieren unzählige Abenteurer, die nicht nur eine Waffe, sondern ein Symbol der Hoffnung für all jene suchen, die sich gegen die heranrückende Dunkelheit stellen. 
+Obwohl [[Estralith]] in Ruinen liegt, lebt die Legende von Lichtbringer weiter. Sie dient als Erinnerung an den Mut und die Einheit, die einst unser Königreich prägten. Geschichten von seiner Macht inspirieren unzählige Abenteurer, die nicht nur eine Waffe, sondern ein Symbol der Hoffnung für all jene suchen, die sich gegen die heranrückende Dunkelheit stellen. 
 
 Möge der Geist Lichtbringers uns leiten, und möge eines Tages sein Licht wieder über die Lande Estraliths erstrahlen.
