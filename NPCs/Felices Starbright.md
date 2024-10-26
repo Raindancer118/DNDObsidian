@@ -18,3 +18,6 @@ _An tan i aur tulë, yá hiruvalmë tána._
 
 >[!WARNING] **Familie**
 >Felices hat insgesamt 4 Kinder, eines davon [[Verin Starbright]] und drei weitere.
+>Felices war außerdem eine Zeit mit [[Altherion]] zusammen; Verin ist von ihm, ohne, dass Felices selbst es wusste.
+
+#NPC

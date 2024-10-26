@@ -18,7 +18,7 @@ Legenden erzählen, wie [[Lightbringer]] Feinde mit einer Brillanz niederschlug,
 
 ## Die letzten Tage Estraliths
 
-Doch selbst eine Waffe, so mächtig wie Lightbringer, konnte die Flut der Zerstörung nicht aufhalten. Als die letzte Schlacht heranrückte, nahm unser geliebter König, Altherion, das Schwert auf und führte seine treuen Krieger in den Kampf. In einem Konflikt, der durch die Zeit hallen würde, kämpften sie tapfer, doch die überwältigende Dunkelheit erwies sich als zu groß.
+Doch selbst eine Waffe, so mächtig wie Lightbringer, konnte die Flut der Zerstörung nicht aufhalten. Als die letzte Schlacht heranrückte, nahm unser geliebter König, [[Altherion]], das Schwert auf und führte seine treuen Krieger in den Kampf. In einem Konflikt, der durch die Zeit hallen würde, kämpften sie tapfer, doch die überwältigende Dunkelheit erwies sich als zu groß.
 
 Als sich der Staub legte, blieb der Verbleib von [[Lightbringer]] in ein Geheimnis gehüllt. Obwohl unser König fiel, verschwand das Schwert selbst, verloren inmitten des Chaos des zusammenbrechenden Königreichs. Flüstern unter den Überlebenden sprachen von seinem strahlenden Licht, das erlosch, doch die Hoffnung blieb, dass das Schwert nicht zerstört worden war. Vielleicht liegt es verborgen unter den Ruinen Estraliths und wartet auf einen würdigen Champion, um es zurückzuerobern und das Licht in unser gefallenes Land zurückzubringen.
 

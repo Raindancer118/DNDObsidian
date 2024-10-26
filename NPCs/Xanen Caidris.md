@@ -15,3 +15,4 @@
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant
 
+#NPC

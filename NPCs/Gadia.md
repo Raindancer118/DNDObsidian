@@ -9,3 +9,5 @@
 
 >[!HINT] **Relationships**
 Gadia ist die Geliebte von [[Thalnir]].
+
+#NPC
