@@ -1,4 +1,4 @@
-_Anwesende Spieler: [[Varia|Ella]], Emilia, [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Oogway|Lorenz]]_  
+_Anwesende Spieler: [[Varia|Ella]], [[Drax|Emilia]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Oogway|Lorenz]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 Der weiße Raum, in dem wir aufgewacht sind, war kahl. Die Wände weiß und schlicht, der Raum selbst nur mit den Betten ausgestattet. Wir haben uns ausgeschlafen und ausgeruht gefühlt und als [[Drax]]’ die Wunden inspizierte, die der Drache hinterlassen hatte, stellten wir fest, dass diese so aussahen, als wären sie rund eine Woche alt. Tarzan und Obelix waren nicht bei uns.

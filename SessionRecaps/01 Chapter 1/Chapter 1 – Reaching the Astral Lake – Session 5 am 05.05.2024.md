@@ -1,4 +1,4 @@
-_Anwesende Spieler: [[Ga Gaw|Daniel]], Emilia, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Drax|Emilia]], [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 >[!WARNING] **LEVELUP**

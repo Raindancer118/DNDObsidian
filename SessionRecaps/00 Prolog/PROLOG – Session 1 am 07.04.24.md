@@ -1,4 +1,4 @@
-_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], Emilia, [[Idril|Hannah]], Henrike, [[Verin Starbright|Johanna]], Ronja, [[Maevvan|Thies]]  
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Drax|Emilia]], [[Idril|Hannah]], Henrike, [[Verin Starbright|Johanna]], Ronja, [[Maevvan|Thies]]  
 Host: [[Varia|Ella]], [[Idril|Hannah]]_
 
 >[!SUMMARY]
