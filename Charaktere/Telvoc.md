@@ -1,3 +1,7 @@
+---
+aliases:
+  - Dominik
+---
 **Spieler:** Dominik
 **Origin:** Session 17
 **Class:** [[Rogue]]

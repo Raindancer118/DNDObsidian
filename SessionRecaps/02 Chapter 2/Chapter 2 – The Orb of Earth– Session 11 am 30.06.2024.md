@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Ella, Emilia, Hannah, Lorenz, Thies_  
-_Host: Ella & Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], Emilia, [[Idril|Hannah]], [[Oogway|Lorenz]], [[Maevvan|Thies]]_  
+_Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 >[!WARNING] **ACHTUNG**
 >**Levelup auf Level 9!**

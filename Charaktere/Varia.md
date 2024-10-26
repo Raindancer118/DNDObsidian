@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ella
+---
 **Spieler:** Ella
 **Origin:** *Origin-Character*
 **Class:** [[Paladin]]

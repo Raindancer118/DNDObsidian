@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Ella, Emilia, Hannah, Henrike, Jannik, Johanna, Ronja  
-Host: Ella, Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], Emilia, [[Idril|Hannah]], Henrike, Jannik, [[Verin Starbright|Johanna]], Ronja  
+Host: [[Varia|Ella]], [[Idril|Hannah]]_
 
 >[!SUMMARY]
 >Wir waren in einer Taverne, haben einige Informationen gesammelt und sind in den Turm der [[Shadowblades]] eingebrochen. Fühlen uns da ganz heimisch.

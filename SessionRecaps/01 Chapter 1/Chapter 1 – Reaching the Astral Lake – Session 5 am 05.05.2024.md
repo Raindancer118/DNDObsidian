@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Emilia, Johanna, Thies_  
-_Host: Ella & Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], Emilia, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
+_Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 >[!WARNING] **LEVELUP**
 >Die Gruppe steigt auf Lvl. 7 auf!

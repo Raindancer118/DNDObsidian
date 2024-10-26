@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Ella, Hannah, Henrike, Ronja_  
-_Host: Ella & Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Idril|Hannah]], Henrike, Ronja_  
+_Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 Wir haben Enervia erreicht und haben dort den Teleportationszirkel verlassen. Wir sind in die Stadt gegangen und haben uns umgesehen, nachdem wir am Hafen erfahren haben, dass unser Schiff noch nicht fertig ist, sondern noch zwei Tage braucht, bevor es in See stechen kann. Wir haben uns darauf vorbereitet, aufzubrechen und haben Lebensmittel gesammelt und einen Schlafplatz gesucht, wo wir bleiben können, während das Schiff fertig gemacht wurde.
 

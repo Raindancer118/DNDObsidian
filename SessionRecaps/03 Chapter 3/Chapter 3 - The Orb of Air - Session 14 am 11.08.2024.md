@@ -1,5 +1,5 @@
-_Anwesende Spieler: Ella, Hannah, Lorenz, Thies_
-Host: Lorenz
+_Anwesende Spieler: [[Varia|Ella]], [[Idril|Hannah]], [[Oogway|Lorenz]], [[Maevvan|Thies]]_
+Host: [[Oogway|Lorenz]]
 
 Wir haben uns umgesehen, jedoch nichts gefunden. Dafür haben wir jedoch Hinweise erhalten, dass [[die schwarze Legion]] in der Region war.
 

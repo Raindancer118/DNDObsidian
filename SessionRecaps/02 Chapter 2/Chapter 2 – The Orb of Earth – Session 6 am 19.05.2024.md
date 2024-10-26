@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Ella, Hannah, Henrike, Ronja_  
-_Host: Ella & Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Idril|Hannah]], Henrike, Ronja_  
+_Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 >[!SUMMARY]
 >Wir haben die Festung unter der Insel erkundet und extrem viele Leichen, aber auch den Orb gefunden. Nachdem wir eine Eingreiftruppe der [[Die Schwarze Legion|Schwarzen Legion]] besiegen konnten, haben wir ihn an uns genommen.

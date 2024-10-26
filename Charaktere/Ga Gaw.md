@@ -1,6 +1,7 @@
 ---
 aliases:
   - Gary
+  - Daniel
 ---
 **Spieler:** Daniel
 **Origin:** *Origin-Character*

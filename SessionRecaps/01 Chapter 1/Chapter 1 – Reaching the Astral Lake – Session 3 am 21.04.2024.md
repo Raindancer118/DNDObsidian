@@ -1,4 +1,4 @@
-_Anwesende Spieler: Jannik, Johanna, Thies  
+_Anwesende Spieler: Jannik, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]  
 Host: Tom_
 
 >[!SUMMARY]

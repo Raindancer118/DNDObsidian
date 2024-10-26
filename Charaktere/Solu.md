@@ -1,3 +1,7 @@
+---
+aliases:
+  - Amié
+---
 **Spieler:** Amié
 **Origin:** session
 **Class:** [[Rogue]]

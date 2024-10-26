@@ -1,4 +1,4 @@
-_Anwesende Spieler: Daniel, Hannah, Jannik, Johanna, Thies_  
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Idril|Hannah]], Jannik, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
 _Host: Tom_
 
 Wir haben den Orb an uns genommen, doch sobald [[Ga Gaw|Gary]] ihn berührt hat, ist er bewusstlos geworden. Natürlich haben wir versucht, ihn zu wecken, doch wir waren erst erfolgreich, als wir ihm Wasser über den Kopf gekippt haben.

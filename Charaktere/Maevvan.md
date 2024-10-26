@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Thies
 ---
 **Spieler:** Thies
 **Origin:** *Origin-Character*

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Lorenz
+---
 **Spieler:** Lorenz
 **Origin:** session
 **Class:** [[Monk]]

@@ -1,4 +1,4 @@
-_Anwesende Spieler:_ Daniel, Johanna
+_Anwesende Spieler:_ [[Ga Gaw|Daniel]], [[Verin Starbright|Johanna]]
 _Host:_ Tom
 
 >[!SUMMARY]

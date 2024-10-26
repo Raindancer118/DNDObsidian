@@ -1,5 +1,5 @@
-_Anwesende Spieler: Ella, Hannah, Johanna, Thies_  
-_Host: Ella & Hannah_
+_Anwesende Spieler: [[Varia|Ella]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
+_Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 
 Wir sind mit dem Schiff weiter gefahren in Richtung Andronis, der Stadt der Winde, da wir dort herausfinden wollten, wo bzw welchen Orb wir im Ice’s Peak Forest finden können.
 

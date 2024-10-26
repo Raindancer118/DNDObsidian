@@ -1,5 +1,5 @@
-_Anwesende Spieler: Daniel, Ella, Emilia, Hannah, Henrike, Johanna, Ronja, Thies  
-Host: Ella, Hannah_
+_Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], Emilia, [[Idril|Hannah]], Henrike, [[Verin Starbright|Johanna]], Ronja, [[Maevvan|Thies]]  
+Host: [[Varia|Ella]], [[Idril|Hannah]]_
 
 >[!SUMMARY]
 >Wir haben einen neuen Auftrag bekommen, die Gruppe kennengelernt und die Zeit genutzt, um Informationen zu sammeln.
