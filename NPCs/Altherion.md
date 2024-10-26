@@ -14,7 +14,8 @@
 >**Hautfarbe:** Ein eher helleres Lila, was aufgrund ihrer Herkunft nicht verwunderlich ist.
 
 >[!IMPORTANT] **Relationships**  
->Beziehungen zu anderen Charakteren
+>[[Felices Starbright]]: Ex-Freundin
+>[[Verin Starbright]]: Tochter
 
 >[!INFO] **Backstory**  
 >Altherion war die **letzte Königin der [[Lost Lands]]**. Alles war gut, doch dann geschah der Angriff ... Die Ländereien wurden von Monstern überrannt. Altherions einziges Ziel ist, ihr wunderbares Königreich wiederherzustellen.
