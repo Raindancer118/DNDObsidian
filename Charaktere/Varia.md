@@ -2,6 +2,7 @@
 aliases:
   - Ella
 ---
+# <font color = 4d88fd>Varia</font>
 **Spieler:** Ella
 **Origin:** *Origin-Character*
 **Class:** [[Paladin]]

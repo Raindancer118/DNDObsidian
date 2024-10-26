@@ -3,6 +3,7 @@ aliases:
   - Gary
   - Daniel
 ---
+# <font color = 4d88fd>Ga Gaw</font>
 **Spieler:** Daniel
 **Origin:** *Origin-Character*
 **Class:** [[Sorcerer]]

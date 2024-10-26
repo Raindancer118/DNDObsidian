@@ -2,6 +2,7 @@
 aliases:
   - Amié
 ---
+# <font color = 4d88fd>Solu</font>
 **Spieler:** Amié
 **Origin:** session
 **Class:** [[Rogue]]

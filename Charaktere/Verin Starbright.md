@@ -4,6 +4,7 @@ aliases:
   - Verin
   - Johanna
 ---
+# <font color = 4d88fd>Verin Starbright</font>
 **Spieler:** Johanna
 **Origin:** *Origin-Character*
 **Class:** [[Cleric]]

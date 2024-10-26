@@ -2,6 +2,7 @@
 aliases:
   - Dominik
 ---
+# <font color = 4d88fd>Telvoc</font>
 **Spieler:** Dominik
 **Origin:** Session 17
 **Class:** [[Rogue]]

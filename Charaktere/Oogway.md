@@ -2,6 +2,7 @@
 aliases:
   - Lorenz
 ---
+# <font color = 4d88fd>Oogway</font>
 **Spieler:** Lorenz
 **Origin:** session
 **Class:** [[Monk]]

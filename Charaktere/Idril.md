@@ -2,11 +2,12 @@
 aliases:
   - Hannah
 ---
+# <font color = 4d88fd>Idril</font>
 **Spieler:** Hannah
 **Origin:** *Origin-Character*
 **Class:** [[Druid]]
 **Level:** 10
-Race: [[Woodelf]]
+Race: [[Woodelf]] [[Ascended Vampire]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Idril ist aufgrund eines Missgeschickes [[Varia]] nicht nur ein Vampir, sondern direkt ein [[Ascended Vampire]].
