@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 3 - The Orb of Air - Session 13 am 14.07.2024</font>
 _Anwesende Spieler: [[Solu|Amié]], [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Oogway|Lorenz]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 

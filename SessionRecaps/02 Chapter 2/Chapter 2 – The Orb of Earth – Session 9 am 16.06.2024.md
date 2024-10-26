@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 2 – The Orb of Earth – Session 9 am 16.06.2024</font>
 _Anwesende Spieler: [[Varia|Ella]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 

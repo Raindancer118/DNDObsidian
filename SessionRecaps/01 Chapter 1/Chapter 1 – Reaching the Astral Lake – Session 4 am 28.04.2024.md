@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 1 – Reaching the Astral Lake – Session 4 am 28.04.2024</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Drax|Emilia]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], Ronja, [[Maevvan|Thies]]_  
 _Host: Tom_
 

@@ -1,3 +1,4 @@
+# <font color = 4d88fd>PROLOG – Session 1 am 07.04.24</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Drax|Emilia]], [[Idril|Hannah]], Henrike, [[Verin Starbright|Johanna]], Ronja, [[Maevvan|Thies]]  
 Host: [[Varia|Ella]], [[Idril|Hannah]]_
 

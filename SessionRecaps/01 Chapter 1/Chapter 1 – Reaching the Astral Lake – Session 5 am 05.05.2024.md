@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 1 – Reaching the Astral Lake – Session 5 am 05.05.2024</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Drax|Emilia]], [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 

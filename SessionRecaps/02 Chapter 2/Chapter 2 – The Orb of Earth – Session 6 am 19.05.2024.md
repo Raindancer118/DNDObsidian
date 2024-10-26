@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 2 – The Orb of Earth – Session 6 am 19.05.2024</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Idril|Hannah]], Henrike, Ronja_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 

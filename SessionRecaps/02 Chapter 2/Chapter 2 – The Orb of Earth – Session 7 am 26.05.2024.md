@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 2 – The Orb of Earth – Session 7 am 26.05.2024</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Idril|Hannah]], Jannik, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]_  
 _Host: Tom_
 

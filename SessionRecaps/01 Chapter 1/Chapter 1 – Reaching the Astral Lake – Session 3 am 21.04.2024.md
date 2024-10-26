@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 1 – Reaching the Astral Lake – Session 3 am 21.04.2024</font>
 _Anwesende Spieler: Jannik, [[Verin Starbright|Johanna]], [[Maevvan|Thies]]  
 Host: Tom_
 

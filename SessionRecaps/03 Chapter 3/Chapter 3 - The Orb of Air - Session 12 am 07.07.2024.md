@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 3 - The Orb of Air - Session 12 am 07.07.2024</font>
 _Anwesende Spieler: [[Varia|Ella]], [[Drax|Emilia]], [[Idril|Hannah]], [[Verin Starbright|Johanna]], [[Oogway|Lorenz]]_  
 _Host: [[Varia|Ella]] & [[Idril|Hannah]]_
 

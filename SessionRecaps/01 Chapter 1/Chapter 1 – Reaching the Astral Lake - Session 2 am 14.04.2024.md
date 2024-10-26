@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 1 – Reaching the Astral Lake - Session 2 am 14.04.2024</font>
 _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Drax|Emilia]], [[Idril|Hannah]], Henrike, Jannik, [[Verin Starbright|Johanna]], Ronja  
 Host: [[Varia|Ella]], [[Idril|Hannah]]_
 

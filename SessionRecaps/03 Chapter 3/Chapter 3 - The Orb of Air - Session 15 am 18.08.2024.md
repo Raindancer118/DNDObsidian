@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Chapter 3 - The Orb of Air - Session 15 am 18.08.2024</font>
 _Anwesende Spieler: [[Varia|Ella]], [[Idril|Hannah]], [[Oogway|Lorenz]]_
 Host: [[Oogway|Lorenz]]
 
