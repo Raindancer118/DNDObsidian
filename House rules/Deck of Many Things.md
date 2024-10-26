@@ -1,26 +1,26 @@
 # <font color = 4d88fd>Deck of Many Things</font>
 
-| **Deck of Many Things Karte** | **Standardspielkarte** | **Effekt im Spiel**                                        |
-|--------------------------------|------------------------|------------------------------------------------------------|
-| **Balance**                    | Joker (schwarz)       | Gesinnung des Charakters ändert sich ins Gegenteil.        |
-| **Comet**                      | 2 Herz                | Schafft der Charakter den nächsten Solo-Kampf, steigt er um eine Stufe auf. |
-| **Donjon**                     | 3 Karo                | Charakter wird in ein Extradimensionales Gefängnis gesperrt. |
-| **Euryale**                    | 4 Pik                 | Permanenter Malus auf alle Rettungswürfe (minus 2).        |
-| **The Fates**                  | 5 Karo                | Charakter kann ein vergangenes Ereignis ungeschehen machen. |
-| **Flames**                     | 6 Pik                 | Ein mächtiger Feind beginnt, den Charakter zu jagen.       |
-| **Fool**                       | Joker (rot)           | Charakter verliert Stufen und zieht erneut.                |
-| **Gem**                        | 7 Karo                | Charakter erhält Edelsteine von insgesamt 50.000 Goldstücken Wert. |
-| **Idiot**                      | 2 Karo                | Charakter verliert Intelligenz-Punkte und muss erneut ziehen. |
-| **Jester**                     | Bube Herz             | Charakter erhält sofort 10.000 Erfahrungspunkte oder kann 2 Karten ziehen. |
-| **Key**                        | König Karo            | Charakter erhält ein mächtiges magisches Artefakt.         |
-| **Knight**                     | Bube Pik              | Ein Level-4-Kämpfer taucht auf und dient dem Charakter bis zum Tod. |
-| **Moon**                       | 7 Herz                | Charakter erhält 1d3 Wünsche (Wish).                       |
-| **Rogue**                      | 8 Pik                 | Ein enger Verbündeter wird zum heimlichen Feind.           |
-| **Ruin**                       | 5 Pik                 | Charakter verliert alle Besitztümer und Reichtümer.        |
-| **Skull**                      | Ass Pik               | Charakter muss gegen den Avatar des Todes kämpfen.         |
-| **Star**                       | Ass Karo              | Charakter erhält einen Bonus auf eine beliebige Fähigkeit (plus 2). |
-| **Sun**                        | Ass Herz              | Charakter erhält einen magischen Gegenstand und 50.000 Erfahrungspunkte. |
-| **Talons**                     | 10 Pik                | Alle magischen Gegenstände des Charakters werden zerstört. |
-| **Throne**                     | König Herz            | Charakter erhält ein kleines Schloss und den Titel eines Lords. |
-| **Vizier**                     | Dame Herz             | Charakter erhält eine göttliche Antwort auf eine Frage.    |
-| **The Void**                   | 6 Karo                | Charakterseele ist gefangen; der Körper verfällt.          |
+| **Deck of Many Things Card**   | **Standard Playing Card** | **Effect in Game**                                        |
+|--------------------------------|---------------------------|-----------------------------------------------------------|
+| **Balance**                    | Joker (black)             | Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you. |
+| **Comet**                      | 2 of Hearts               | If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect. |
+| **Donjon**                     | 3 of Diamonds             | You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind. You remain imprisoned until you are found and removed from the sphere. You can’t be located by any divination magic, but a wish spell can reveal the location of your prison. You draw no more cards. |
+| **Euryale**                    | 4 of Spades               | The card’s medusa-like visage curses you. You take a -2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse. |
+| **The Fates**                  | 5 of Diamonds             | Reality’s fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card’s magic as soon as you draw the card or at any other time before you die. |
+| **Flames**                     | 6 of Spades               | A powerful devil becomes your enemy. The devil seeks your ruin and plagues your life, savoring your suffering before attempting to slay you. This enmity lasts until either you or the devil dies. |
+| **Fool**                       | Joker (red)               | You lose 10,000 XP, discard this card, and draw again, counting both draws as one of your declared draws. If losing that much XP would cause you to lose a level, you instead lose an amount that leaves you with just enough XP to keep your level. |
+| **Gem**                        | 7 of Diamonds             | Twenty-five pieces of jewelry worth 2,000 gp each or fifty gems worth 1,000 gp each appear at your feet. |
+| **Idiot**                      | 2 of Diamonds             | Permanently reduce your Intelligence by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws. |
+| **Jester**                     | Jack of Hearts            | You gain 10,000 XP, or you can draw two additional cards beyond your declared draws. |
+| **Key**                        | King of Diamonds          | A rare or rarer magic weapon with which you are proficient appears in your hands. The DM chooses the weapon. |
+| **Knight**                     | Jack of Spades            | You gain the service of a 4th-level fighter who appears in a space you choose within 30 feet of you. The fighter is of the same race as you and serves you loyally until death. You control this character. |
+| **Moon**                       | 7 of Hearts               | You are granted the ability to cast the wish spell 1d3 times. |
+| **Rogue**                      | 8 of Spades               | A nonplayer character of the DM’s choice becomes hostile toward you. The identity of your new enemy isn’t known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC’s hostility toward you. |
+| **Ruin**                       | 5 of Spades               | All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears. |
+| **Skull**                      | Ace of Spades             | You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM’s choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can’t be restored to life. |
+| **Star**                       | Ace of Diamonds           | Increase one of your ability scores by 2. The score can exceed 20 but can’t exceed 24. |
+| **Sun**                        | Ace of Hearts             | You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appears in your hands. |
+| **Talons**                     | 10 of Spades              | Every magic item you wear or carry disintegrates. Artifacts in your possession aren’t destroyed but do vanish. |
+| **Throne**                     | King of Hearts            | You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim it as yours. |
+| **Vizier**                     | Queen of Hearts           | At any time within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer. Besides information, the answer helps you solve a puzzling problem or other dilemma. |
+| **The Void**                   | 6 of Diamonds             | This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM’s choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can’t restore your soul, but it reveals the location of the object that holds it. You draw no more cards. |
