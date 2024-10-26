@@ -1,7 +1,7 @@
 # <font color = "orange">Altherion</font>
 
 **NPC**  
-**Origin:** *session not planned yet*  
+**Origin:** Session 19
 **Race:** Half-Elf-Half-Drow  
 **Class:** [[Sorcerer]]
 
