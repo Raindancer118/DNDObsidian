@@ -5,7 +5,7 @@ aliases:
 **Spieler:** Dominik
 **Origin:** Session 17
 **Class:** [[Rogue]]
-**Level:** 10
+**Level:** 11
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters
