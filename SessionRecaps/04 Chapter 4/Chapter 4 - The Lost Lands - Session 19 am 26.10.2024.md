@@ -17,6 +17,6 @@ Verin hatte einen Brief bezüglich des Erbes ihrer Mutter erhalten und machte si
 Telvoc hatte währenddessen einem Boten des Dragon Express einen Brief abgenommen. Dieser war vom König und verlieh allen Mitgliedern der Shadowblades den Titel eines Lords oder einer Lady. 
 
 Anschließend machte sich die gesamte Truppe auf den Weg zum Tower der Shadowblades; [[Sylthar]] wurde dabei einfach mitgeschleppt. Wir erreichten den Turm innerhalb kurzer Zeit und erhielten von Sassy die Information, dass es mehrere Angriffe auf den Turm gab. Boris wurde als Eindringling erkannt und von den Arcane Turrets ausgeschaltet. Dann wurde er auch noch zu Staub zerlegt, als Maevvan seine Leiche untersuchen wollte. 
-Wir haben uns ins obere Stockwerk begeben, und 
+Wir haben uns ins obere Stockwerk begeben, und sahen durch die Fenster des Schlafsaales Blitze gegen die magischen Schilde des Turmes prallen. 
 
 #analysis
