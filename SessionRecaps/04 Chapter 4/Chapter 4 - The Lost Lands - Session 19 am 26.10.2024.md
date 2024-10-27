@@ -14,6 +14,8 @@ Die beiden Wachen sahen uns an. [[Verin Starbright|Verin]] erklärte, das Blut a
 
 Verin hatte einen Brief bezüglich des Erbes ihrer Mutter erhalten und machte sich auf den Weg zur Anwaltskanzlei, die ihr allerdings eine Abfuhr erteilte. Thalia Dunhart habe gerade keine Zeit, sei allerdings in zwei Wochen wieder zu sprechen. Verin fragte nach einem anderen Termin, erhielt aber prompt die Antwort, dass auch einer in drei Wochen frei sei. Sie gab sich also mit dem Termin in zwei Wochen zufrieden und kehrte zur Gruppe zurück.
 
-Telvoc hatte währenddessen einem Boten des Dragon Express einen Brief abgenommen.
+Telvoc hatte währenddessen einem Boten des Dragon Express einen Brief abgenommen. Dieser war vom König und verlieh allen Mitgliedern der Shadowblades den Titel eines Lords oder einer Lady. 
+
+Anschließend machte sich die gesamte Truppe auf den Weg zum Tower der Shadowblades; [[Sylthar]] wurde dabei einfach mitgeschleppt. Wir erreichten den Turm innerhalb kurzer Zeit und erhielten von Sassy die Information, dass es mehrere Angriffe auf den Turm gab. Boris wurde als 
 
 #analysis
