@@ -6,7 +6,10 @@
 **Class:** NA
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+>Sassy ist die im Shadowblade-Tower ansässige AI. Sie ist auf magische Weise irgendwie in allem vertreten, was mit den Shadowblades zu tun hat, und kann so sehr gut unterstützen. 
+
+>[!INFO] **Charakterzüge**
+>Sassy ist die sympatische, leicht mütterliche AI der Shadowblades. Sie ist freundlich, versucht, zu helfen, wo sie kann und 
 
 >[!IMPORTANT] **Relationships**
 >Beziehungen zu anderen Charakteren
