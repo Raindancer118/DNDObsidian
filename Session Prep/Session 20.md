@@ -1,8 +1,10 @@
 # <font color = 4d88fd>Session 20</font>
--  Gegen Ende des Kampfes ziehen sich auf einmal blaue Linien aus der Luft auf das Schiff zu, als würden dieses Energie aus der Luft ziehen. Das Licht beginnt ein wenig zu pulsieren. Über mehrere Turns zieht sich dieses Ereignis, dann wird das Licht langsam lila. Über den Türen leuchten die rot pulsierenden Alarmleuchten lila auf und die roboterhafte Stimme, die nicht Sassys war, meldet "Energy Core Overload. Stop charging immeadiatly". Die Charaktere haben zwei Turns Zeit, unter Deck zu sprinten und den Energy Core aus seiner Halterung zu entfernen. Da sie es **nicht rechtzeitig schaffen können**, wird der Code hellblau. Energie knistert um ihn herum. Dann überlädt er. Das Schiff erzittert kurz, dann hört man ein "BSUII" und blaue Stränge Energie ziehen sich durch Schläuche an den Wänden nach oben. +
-- Eine Druckwelle löst sich und der Charakter, der versucht hat, die Überladung zu stoppen, wird zu Boden geschleudert. Der Core erhebt sich leicht von seiner Säule, auf der er steht, und beginnt zu schweben. Ein Ruck geht durch das Schiff und es knarzt, als seine Lage sich stabilisiert und es sich leicht aus den Greifarmen hebt, die es festhalten. 
-- Sassys Stimme ertönt, sie spricht mit dem zu Boden gegangenen Charakter. "Oh, tut mir leid. Geht es dir gut?"
-  Anschließend merkt sie an "Ich sehe, ihr habt Besuch. Darf ich mich einmischen?"
-- Arcane Turrets fahren auf dem Deck aus dem Boden und pulverisieren innerhalb von etwas weniger als zwei Turns alle Gegner.
-- 
+Gegen Ende des Kampfes beginnen blaue Linien, wie lebende Energiefäden, aus der Luft zu strömen und in das Schiff überzugehen. Ein leises Pulsieren erfüllt die Luft, und das Licht verändert sich allmählich, bis es in einem warnenden Lila leuchtet. Die Alarmleuchten über den Türen beginnen ebenfalls violett zu pulsieren, und eine kalte, metallische Stimme – nicht Sassys – ertönt: „**Energy Core Overload. Stop charging immediately.**“
 
+Den Charakteren bleiben genau zwei Runden, um unter Deck zu stürzen und den Energy Core aus seiner Halterung zu entfernen. Doch die Distanz ist zu groß, als dass sie rechtzeitig ankommen könnten. Der Core wechselt in ein helles, aufgeladenes Blau, Energie knistert um ihn herum und baut sich gefährlich auf. Dann kommt es zur Überladung: Das Schiff erzittert, eine Druckwelle breitet sich aus, und der Charakter, der den Vorgang gerade noch zu verhindern suchte, wird rücklings zu Boden geschleudert. Der Core hebt sich sanft von seiner Säule und beginnt schwebend zu rotieren. Ein kräftiger Ruck geht durch das Schiff, das ächzend und knarzend die Position stabilisiert und sich ein wenig aus den Greifarmen hebt, die es gehalten hatten.
+
+Dann meldet sich Sassys Stimme, kühl und trocken. Sie richtet sich an den zu Boden geschleuderten Charakter. „Oh… das tut mir leid. Alles in Ordnung?“
+
+Sie hält kurz inne, dann fügt sie hinzu: "Ihr habt Besuch an Deck. Was dagegen, wenn ich ein bisschen helfe?"
+
+Sie wartet einen Moment auf die Antwort. Kaum ist sie gegeben, fahren aus dem Boden des Decks arcane Geschütztürme empor und eröffnen das Feuer auf die verbliebenen Gegner. In weniger als zwei Runden ist die Bedrohung ausgeschaltet, und das Schiff kehrt wieder in einen Zustand der Ruhe zurück.
