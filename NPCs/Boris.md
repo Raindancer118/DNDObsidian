@@ -6,7 +6,7 @@
 **Class:** NA (Zombie)
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+>Boris ist ein von [[Maevvan]] beschworener Zombie. Immer mal wieder stirbt er, aber dann wird einfach ein anderer Boris erstellt.
 
 >[!IMPORTANT] **Relationships**
 >Beziehungen zu anderen Charakteren
