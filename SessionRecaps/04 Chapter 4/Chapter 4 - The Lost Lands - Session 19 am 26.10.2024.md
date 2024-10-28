@@ -19,4 +19,6 @@ Telvoc hatte währenddessen einem Boten des Dragon Express einen Brief abgenomme
 Anschließend machte sich die gesamte Truppe auf den Weg zum Tower der Shadowblades; [[Sylthar]] wurde dabei einfach mitgeschleppt. Wir erreichten den Turm innerhalb kurzer Zeit und erhielten von Sassy die Information, dass es mehrere Angriffe auf den Turm gab. Boris wurde als Eindringling erkannt und von den Arcane Turrets ausgeschaltet. Dann wurde er auch noch zu Staub zerlegt, als Maevvan seine Leiche untersuchen wollte. 
 Wir haben uns ins obere Stockwerk begeben, und sahen durch die Fenster des Schlafsaales Blitze gegen die magischen Schilde des Turmes prallen. Sassy sagte uns allerdings, dass diese bei voller Kapazität seien, daher machten wir uns nicht weiter Sorgen. Telvoc bat Sassy, uns Bescheid zu sagen, sollte die Kapazität der Schilde unter 80% fallen, doch wir konnten die Nacht durchschlafen. Nur Idril hatte seltsamerweise keine wirkliche Nachtruhe; sie wälzte sich auf ihrer Matratze hin und her, doch irgendwie konnte sie partout nicht in ihre Meditation fallen...
 
+Am nächsten Morgen fanden wir uns in der Eingangshalle ein. Ein Frühstückstisch war gedeckt, die Vogelscheuche (Sie ist eigentlich ein Konstrukt) stand daneben. 
+
 #analysis
