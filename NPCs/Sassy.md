@@ -5,7 +5,7 @@ aliases:
 # <font color = 4d88fd>Sassy</font>
 
 **NPC**
-**Origin:** *Origin Character* 
+**Origin:** [[Chapter 1 – Reaching the Astral Lake - Session 2 am 14.04.2024]]
 **Race:** AI
 **Class:** NA
 

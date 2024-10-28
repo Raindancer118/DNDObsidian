@@ -3,7 +3,7 @@ _Anwesende Spieler: [[Ga Gaw|Daniel]], [[Varia|Ella]], [[Drax|Emilia]], [[Idril|
 Host: [[Varia|Ella]], [[Idril|Hannah]]_
 
 >[!SUMMARY]
->Wir waren in einer Taverne, haben einige Informationen gesammelt und sind in den Turm der [[Shadowblades]] eingebrochen. Fühlen uns da ganz heimisch.
+>Wir waren in einer Taverne, haben einige Informationen gesammelt und sind in den [[Shadowblades HQ|Turm]] der [[Shadowblades]] eingebrochen. Fühlen uns da ganz heimisch.
 
 In der Taverne hat Tiao angeboten, sich einmal umzuhören und Kali eine Adresse auf einem Zettel zugesteckt, mit der Notiz, dort in einigen Tagen vorbeizuschauen, bevor er schließlich in einer Rauchwolke verschwunden ist, als Yostix, ein stadtweit bekannter Kopfgeldjäger, auf die Gruppe zu geschlichen kam. Er hat außerdem kurz ein Gespräch mit Audrey geführt, war dabei aber sehr zurückweisend ihr gegenüber.
 
@@ -17,15 +17,15 @@ Am Morgen hat Yostix in einem verzweifelten Versuch, zu entkommen, eine Wache ge
 
 Wir sind zum Hafen gegangen, um den Captain des Schiffes, auf dem wir mitfahren wollten, zu fragen, ob er uns auch mitnehmen könnte. Gegen eine kleine Gebühr von 3 Gold pro Person hat er sich dazu bereit erklärt.
 
-Schlussendlich haben wir uns zum Turm der [[Shadowblades]] begeben, wo wir eingebrochen sind. Kaum waren wir drin, wurden wir allerdings von einer geheimnisvollen Stimme, die dem Turm zu gehören scheint, nach einem Passwort gefragt. Wir wussten es nicht und haben drei Mal falsch geraten. [[Verin Starbright]] ist gerade noch mit ihrem Leben davon gekommen, indem sie sich hinter die Eingangstür geworfen hat. Fast wären wir gestorben, da hat sie sich getraut und „For [[Gadia]], For Honor and Glory!“, gerufen und uns damit gerettet.
+Schlussendlich haben wir uns zum [[Shadowblades HQ|Turm]] der [[Shadowblades]] begeben, wo wir eingebrochen sind. Kaum waren wir drin, wurden wir allerdings von einer geheimnisvollen Stimme, die dem [[Shadowblades HQ|Turm]] zu gehören scheint, nach einem Passwort gefragt. Wir wussten es nicht und haben drei Mal falsch geraten. [[Verin Starbright]] ist gerade noch mit ihrem Leben davon gekommen, indem sie sich hinter die Eingangstür geworfen hat. Fast wären wir gestorben, da hat sie sich getraut und „For [[Gadia]], For Honor and Glory!“, gerufen und uns damit gerettet.
 
 Wir haben uns neue Ausrüstung geholt und uns mit einigen +1-Sachen ausgestattet. An den Tresor, der herumstand, sind wir nicht herangekommen, auch wenn Yostix zweimal ein falsches Passwort ausprobiert hat. Ein Versuch bleibt uns noch; vielleicht kommen wir ja nochmal zurück.
 
-Im Turm der [[Shadowblades]] haben wir Essen, einige Waffen, Wasser für unsere Wasserschläuche und außerdem eine eigene Bibliothek gefunden.
+Im [[Shadowblades HQ|Turm]] der [[Shadowblades]] haben wir Essen, einige Waffen, Wasser für unsere Wasserschläuche und außerdem eine eigene Bibliothek gefunden.
 
 Jeder von uns hat außerdem ein Bett bekommen.
 
-Schließlich haben wir uns auf den Weg gemacht, den Turm zu verlassen und zum Hafen zu gehen.
+Schließlich haben wir uns auf den Weg gemacht, den [[Shadowblades HQ|Turm]] zu verlassen und zum Hafen zu gehen.
 
 Kali hat in der Zwischenzeit bei der Adresse vorbeigeschaut, die Tiao ihm gegeben hatte, hatte allerdings keinen Erfolg; das Haus schien nicht bewohnt. Wahrscheinlich kommt er erst demnächst wieder. Kali hat allerdings eine Notiz dagelassen, dass sie in nächster Zeit wahrscheinlich nicht vorbeikommen kann.
 
