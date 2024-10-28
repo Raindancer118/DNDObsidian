@@ -13,8 +13,8 @@ aliases:
 ><font color = "purple">Noch nicht freigeschaltet</font>
 
 #### 2. Untergeschoss
-- <font color = "red">Mission Control</font>
-- <font color = "purple">Tower Control Room</font>
+- [[Mission Control]]
+- Tower Control Room
 	- Shield Control
 	- Main Energy Core
 	- Weapon Systems Control
