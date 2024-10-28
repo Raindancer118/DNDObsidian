@@ -9,7 +9,7 @@ In der Taverne hat Tiao angeboten, sich einmal umzuhören und Kali eine Adresse 
 
 Wir haben die Taverne verlassen und sind in die Stadtbibliothek gegangen. Die Hohepriestern [[Verin Starbright]] hat in der Zwischenzeit in der Kirche ihre Angelegenheiten geregelt und im Waisenhaus vorbeigeschaut.
 
-In der Stadtbibliothek haben wir einige Informationen gefunden, die uns helfen könnten. Wir wissen jetzt, dass vermutet wird, dass [[die Schwarze Legion]] den Orb of Time hat. Gleichzeitig sind wir auf die Information gestoßen, dass der Orb of Earth wahrscheinlich am Astral Lake bei einem Druidenzirkel versteckt ist. Außerdem haben wir nach einer Weile festgestellt, dass uns jemand folgt. Audrey hat nachgesehen und festgestellt, dass es Yostix war, der uns anscheinend die ganze Zeit beobachtet und belauscht hat.
+In der Stadtbibliothek haben wir einige Informationen gefunden, die uns helfen könnten. Wir wissen jetzt, dass vermutet wird, dass [[Die Schwarze Legion]] den Orb of Time hat. Gleichzeitig sind wir auf die Information gestoßen, dass der Orb of Earth wahrscheinlich am Astral Lake bei einem Druidenzirkel versteckt ist. Außerdem haben wir nach einer Weile festgestellt, dass uns jemand folgt. Audrey hat nachgesehen und festgestellt, dass es Yostix war, der uns anscheinend die ganze Zeit beobachtet und belauscht hat.
 
 Nach einer Auseinandersetzung mit Yostix, die wir klären konnten, indem wir ihn in Gewahrsam genommen haben, haben wir unser Nachtquartier in unseren jeweiligen Behausungen aufgesucht. Kali, Yostix und [[Verin Starbright]] haben dabei in der Kirche übernachtet. [[Verin Starbright]] hat sich außerdem die Bücher eingesteckt, die wir in der Bibliothek für relevant gehalten haben.
 
