@@ -6,10 +6,10 @@
 **Class:** [[Wizard]]
 
 >[!SUMMARY] **Zusammenfassung**
->Xanen ist der beste Freund von [[Xanathar]] und studiert gemeinsam mit diesem an der [[Hells Climb's University of Applied Magics]] Magie. Sein Studienschwerpunkt sind Abjuration-Zauber.
+>Xanen ist der beste Freund von [[Xanathar Mooncrest]] und studiert gemeinsam mit diesem an der [[Hells Climb's University of Applied Magics]] Magie. Sein Studienschwerpunkt sind Abjuration-Zauber.
 
 >[!IMPORTANT] **Relationships**
->- [[Xanathar]] (Best Friend)
+>- [[Xanathar Mooncrest]] (Best Friend)
 >- [[Lirian Caidris]] (Brother)
 
 >[!INFO] **Backstory**

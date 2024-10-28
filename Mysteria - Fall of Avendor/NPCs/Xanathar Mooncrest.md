@@ -1,4 +1,4 @@
-# <font color = 4d88fd>Xanathar</font>
+# <font color = 4d88fd>Xanathar Mooncrest</font>
 
 **NPC**
 **Origin:** [[Chapter 3 - The Orb of Air - Session 16 am 15.09.2024|Session 16]]

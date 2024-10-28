@@ -8,6 +8,6 @@
 [[Verin Starbright]]: 35 GP
 [[Varia]]: 3 GP, 32 SP, 8 CP
 [[Maevvan]]: 35 GP
-[[Xanathar]]: 1000 PP
+[[Xanathar Mooncrest]]: 1000 PP
 [[Felices Starbright]]: **[[Vault 84309 - Felices Starbright|Vault 84309]]**
 
