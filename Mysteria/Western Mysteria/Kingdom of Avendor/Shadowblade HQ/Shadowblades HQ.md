@@ -8,6 +8,9 @@ aliases:
 ---
 # <font color = 4d88fd>Shadowblades HQ</font>
 
+>[!INFO] **SHADOWBLADES FACILITY**
+>Der Turm der Shadowblades ist ihr Hauptquartier. Umgeben von starken Energieschilden und geschützt von Arcane Turrets am Boden, ragt der schwarze Turm mitten in Avendor über die Stadtkulisse hinaus.
+
 >[!INFO] **LEGENDE**
 ><font color = "red">Noch nicht besucht</font>
 ><font color = "purple">Noch nicht freigeschaltet</font>

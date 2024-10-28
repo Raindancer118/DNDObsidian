@@ -12,7 +12,7 @@ Im weiteren Verlauf der Fahrt hat sich zunächst [[Idril]] schlafen gelegt. Sie 
 
 Auch [[Varia]] hat sich schlafen gelegt und geträumt, dass ihr Gott ihr den Hinweis gab, dass der Orb des Wassers in Gefahr sei. “Beeile dich, Paladin ...”
 
-[[Verin Starbright]] hat sich schlafen gelegt, wurde prompt von ihrem Dolch übernommen, den sie aus dem Shadowblade-Tower mitgenommen hatte, und hat es dann allerdings geschafft, sich von dessen Kontrolle zu befreien, nachdem sie mit roten Augen hochgeschossen war.
+[[Verin Starbright]] hat sich schlafen gelegt, wurde prompt von ihrem Dolch übernommen, den sie aus dem [[Shadowblades|Shadowblade]]-Tower mitgenommen hatte, und hat es dann allerdings geschafft, sich von dessen Kontrolle zu befreien, nachdem sie mit roten Augen hochgeschossen war.
 
 Wir haben uns natürlich Sorgen gemacht, und während sie weitergeschlafen hat, hat [[Varia]] versucht, mit Thalnir zu reden und herauszufinden, ob es normal für Aasimar ist, dass sie rote Augen bekommen, irgendwie komisch aufwachen und Messer zücken. Thalnir sah kurz besorgt aus, doch durch die Rauchwolken, die im Gebetsraum sein Gesicht verdeckten, war es nicht klar zu erkennen, ob er tatsächlich besorgt war, oder nur Hunger hatte. Er meinte jedenfalls, wir sollten uns keine Sorgen machen, er würde sich schon darum kümmern. Als [[Varia]] den Gebetsraum wieder verließ, war gerade Morvok damit beschäftigt, Spinnen zu smiten, die in dem Raum saßen.
 

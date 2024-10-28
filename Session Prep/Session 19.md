@@ -111,7 +111,7 @@ Wenn die Charaktere an einem Dorf in der östlichen Region Mysterias vorbeikomme
 ### Teamkoordination
 
 - **Teamarbeit:**
-    - Die Begleiter werden zusammenarbeiten, um die Spieler zu verwirren und in einen engen Raum zu drängen. Während Tharun sie mit magischen Angriffen beschäftigt, wird Shadowblade versuchen, Spieler, die isoliert sind, anzugreifen, während der Golem die Gruppe von den Ausgängen und von der Flucht abhält.
+    - Die Begleiter werden zusammenarbeiten, um die Spieler zu verwirren und in einen engen Raum zu drängen. Während Tharun sie mit magischen Angriffen beschäftigt, wird [[Shadowblades|Shadowblade]] versuchen, Spieler, die isoliert sind, anzugreifen, während der Golem die Gruppe von den Ausgängen und von der Flucht abhält.
 - **Fallen und Tricks:**
     - Tharun und seine Begleiter könnten auch versuchen, die Umgebung zu ihrem Vorteil zu nutzen, indem sie die Ruine mit Fallen und Illusionen versehen. Zum Beispiel könnten sie verzauberte Objekte oder illusionäre Hindernisse nutzen, um den Spielern das Navigieren in der Ruine zu erschweren.
 

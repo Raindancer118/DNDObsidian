@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shadowblade
+---
 ![[Shadowblade-Logo.png|300]]
 
 >[!SUMMARY] **Zusammenfassung**
