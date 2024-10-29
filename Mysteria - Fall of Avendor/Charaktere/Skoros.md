@@ -11,7 +11,8 @@ aliases:
 **Level:** 10
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+
+>[!DANGER] **Skoros hat noch niemanden getötet.**
 
 >[!IMPORTANT] **Relationships**
 >Beziehungen zu anderen Charakteren
