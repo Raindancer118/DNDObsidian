@@ -7,7 +7,7 @@
 **Level:** 10
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+>Ruri hat den Tod ihrer Mutter immer **noch nicht ganz verarbeitet**.
 
 >[!IMPORTANT] **Relationships**
 
