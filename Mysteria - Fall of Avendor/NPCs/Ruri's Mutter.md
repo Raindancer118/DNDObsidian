@@ -6,7 +6,7 @@
 **Class:** class
 
 >[!SUMMARY] **Zusammenfassung**
->Ruri's Mutter wurde von Ruri's Vater getötet, als Ruri noch klein war. Ruri hat allerdings keine Ahnung, dass ihr Vater ein Werwolf ist. Ihr Tod war ein Unfall.
+>Ruri's Mutter wurde von Ruri's Vater getötet, als [[Ruri]] noch klein war. Ruri hat allerdings keine Ahnung, dass ihr Vater ein Werwolf ist. Ihr Tod war ein Unfall. Ihre Leiche trug heftige Bissspuren, weshalb [[Ruri's Schwester]] [[Atto]] für schuldig hielt.
 
 >[!IMPORTANT] **Relationships**
 >Beziehungen zu anderen Charakteren

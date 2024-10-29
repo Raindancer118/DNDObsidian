@@ -12,7 +12,7 @@
 >[!IMPORTANT] **Relationships**
 
 >[!DANGER] **RURI'S VATER**
->Ruris Vater ist tot; ihre Schwester hat ihn gekillt und ist nun diejenige, die in seinem Namen Briefe verfasst, da sie herausgefunden hat, dass er ihre Mutter umgebracht hat.
+>Ruris Vater ist ein Werwolf und hat ihre Mutter umgebracht. [[Ruri's Schwester]] geht allerdings aufgrund der Bissspuren davon aus, dass Atto der Mörder war.
 
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant
