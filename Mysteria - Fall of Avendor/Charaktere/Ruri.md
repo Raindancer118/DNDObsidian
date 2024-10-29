@@ -8,6 +8,7 @@
 
 >[!SUMMARY] **Zusammenfassung**
 >Ruri hat den Tod ihrer [[Ruri's Mutter|Mutter]] immer **noch nicht ganz verarbeitet**. Ruri träumt manchmal von Werwölfen -> Albträume!
+>Ruri wünscht sich über alles, mit Tieren sprechen zu können.
 
 >[!IMPORTANT] **Relationships**
 
