@@ -1,9 +1,13 @@
+---
+aliases:
+  - Merle
+---
 # <font color = 4d88fd>Ruri</font>
 
 **Spieler:** Merle
 **Origin:** session
-**Race:** Rasse
-**Class:** class
+**Race:** Genasi (Water)
+**Class:** Monk 
 **Level:** 10
 
 ![[Ruri.jpg|300]]
