@@ -15,9 +15,9 @@ aliases:
 >[!DANGER] **Skoros hat noch niemanden getötet.**
 
 >[!IMPORTANT] **Relationships**
->Beziehungen zu anderen Charakteren
+> ❤️ Skoros ist mit [[Ruri]] zusammen.
 
 >[!INFO] **Backstory**
->Backstory des Charakters, wenn relevant
+>Skoros ist Wache an der [[Hells Climb's University of Applied Magics]] gewesen. Dort hat er von der Hochschulleitung den Auftrag bekommen, die [[Shadowblades]] auszuspionieren. Dies hat ihm sehr gut gepasst, da er aus persönlichem Interesse ohnehin mit wollte. Er wird nun für seinen Auftrag bezahlt, ohne aktiv etwas dafür zu tun.
 
 #analysis 

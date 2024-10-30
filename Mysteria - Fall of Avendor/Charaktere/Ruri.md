@@ -5,7 +5,7 @@ aliases:
 # <font color = 4d88fd>Ruri</font>
 
 **Spieler:** Merle
-**Origin:** session
+**Origin:** [[Chapter 4 - The Lost Lands - Session 20 am 03.01.2024]]
 **Race:** Genasi (Water)
 **Class:** Monk 
 **Level:** 10
@@ -17,6 +17,7 @@ aliases:
 >Ruri wünscht sich über alles, mit Tieren sprechen zu können.
 
 >[!IMPORTANT] **Relationships**
+>❤️ Ruri ist seit einiger Zeit bereits mit [[Skoros]] zusammen und würde für ihn so ziemlich alles tun.
 
 >[!DANGER] **RURI'S VATER**
 >Ruris Vater ist ein Werwolf und hat ihre Mutter umgebracht. [[Ruri's Schwester]] geht allerdings aufgrund der Bissspuren davon aus, dass Atto der Mörder war.
