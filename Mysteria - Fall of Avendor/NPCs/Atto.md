@@ -6,6 +6,7 @@
 **Bound to:** [[Ruri]]
 
 ![[Ruri & Atto.jpg]]
+Atto mit seinem Herrchen, Ruri
 
 >[!SUMMARY] **Zusammenfassung**
 >Atto ist mit Ruri aufgewachsen und hat den Tod ihrer [[Ruri's Mutter|Mutter]] miterlebt. Er hat eine starke Abneigung gegen ihren Vater.
