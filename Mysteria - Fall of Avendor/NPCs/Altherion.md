@@ -5,6 +5,8 @@
 **Race:** Half-Elf-Half-Drow  
 **Class:** [[Sorcerer]]
 
+![[Altherion.jpg|600]]
+
 >[!SUMMARY] **Zusammenfassung**  
 >Altherion ist der Anführer der [[Die Schwarze Legion|schwarzen Legion]].
 
