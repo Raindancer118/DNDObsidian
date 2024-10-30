@@ -7,7 +7,7 @@
 >Zu den Lightning Three, auch genannt "The Green Trio" oder "The Miles High Club", gehören einige [[The Orbs of Power|Orbs]]. Diese drei Orbs, wenn sie kombiniert werden, erzeugen eine extreme Macht, die in der Lage ist, Tote wiederzuerwecken oder Gegner einfach zu Staub zerfallen zu lassen.
 >**Dies sind sie:**
 >- [[The Orb of Light]]
->- [[Orb of Darkness]]
+>- [[The Orb of Darkness]]
 >Diese beiden Orbs bündeln ihre Kräfte in den mächtigsten der drei:
->- [[Orb of Life]]
+>- [[The Orb of Life]]
 
