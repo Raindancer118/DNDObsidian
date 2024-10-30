@@ -2,6 +2,8 @@
 aliases:
   - Avendor
 ---
+# <font color = 4d88fd>City of Avendor</font>
+
 >[!SUMMARY] **Zusammenfassung**
 >Avendor ist die Hauptstadt des Königreiches [[Kingdom of Avendor|Avendor]]. Avendor ist #3 auf der Liste der größten Städte Mysterias. Der Hauptimport der Stadt sind Bücher und Wissen. Exportiert werden überwiegend Luxusgüter und Dienstleistungen.
 

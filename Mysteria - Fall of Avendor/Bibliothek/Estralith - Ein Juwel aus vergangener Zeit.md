@@ -3,7 +3,7 @@
 ## Das Königreich des Lichts
 Inmitten fruchtbarer Täler und von majestätischen Wäldern umgeben, erstreckte sich [[Estralith]] einst als das „Königreich des Lichts“ – ein Ort des Friedens und der Gemeinschaft, der bis heute in den Geschichten der Ältesten und in der Kunst überlebt. [[Estralith]] war berühmt für seine blendend weißen Türme, die in den Himmel ragten und das Land bei Sonnenaufgang in ein goldenes Leuchten tauchten. Diese Türme waren nicht nur Zeugnisse architektonischen Könnens, sondern auch magische Leuchtfeuer, die den Schutz des Landes symbolisierten.
 
-## Die Stadt Estral: Das Herz des Königreichs
+## Die Stadt [[Estral]]: Das Herz des Königreichs
 Im Zentrum des Reiches lag die Hauptstadt Estral, eine prächtige Stadt, die als das Herz und die Seele des Königreichs galt. Estral war eine Stadt der Harmonie und Offenheit, wo Menschen, Elfen, Zwerge und andere Rassen in Frieden zusammenlebten. Auf den Straßen konnte man Elfenhändler mit exotischen Waren aus fernen Wäldern, zwergische Handwerker und Menschenkrieger an einem Ort vereint sehen – ein Anblick, der an das reiche, multikulturelle Erbe des Reiches erinnerte.
 
 Der Königspalast von Estral, bekannt als das Haus der Lichter, beherbergte nicht nur die Königsfamilie, sondern war auch ein spirituelles Zentrum, in dem die edelsten Magier des Landes wirkten. Diese Magier, oft als „Wächter des Lichts“ bezeichnet, schufen mächtige Schutzzauber, die das Land vor äußeren Bedrohungen abschirmten und das Vertrauen des Volkes in eine friedvolle Zukunft festigten.

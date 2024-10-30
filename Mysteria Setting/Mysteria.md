@@ -1,3 +1,5 @@
+# <font color = 4d88fd>Mysteria</font>
+
 Mysteria ist ein grundsätzlich sehr grüner Planet. Viel der vorhandenen Fläche wurde noch nicht erobert und wird noch immer von der Wildnis verteidigt; nur Abenteurer im Einklang mit der Natur haben eine echte Chance. 
 
 Tagsüber leuchten die zwei Sonnen Mysterias mehr als die Hälfte des Planeten an, auch wenn eine der beiden Sonnen schneller untergeht als die andere. Tage sind ungefähr 18 Stunden lang von Sonnenaufgang bis die Sonne untergegangen ist. 

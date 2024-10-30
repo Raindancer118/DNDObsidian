@@ -1,3 +1,5 @@
+# <font color = 4d88fd>Bank of Mysteria</font>
+
 >[!SUMMARY] **Zusammenfassung**
 >Die Bank of [[Mysteria]] ist die größte Bankkette der Welt. Sie haben kleine Niederlassungen überall; manche munkeln sogar, dass es jedes Mal dieselbe ist, die einfach überall steht. Aber das ist doch unmöglich ... oder?
 

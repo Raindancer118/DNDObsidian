@@ -1,7 +1,7 @@
 # <font color = "orange">Altherion</font>
 
 **NPC**  
-**Origin:** Session 19
+**Origin:** [[Chapter 4 - The Lost Lands - Session 19 am 26.10.2024]]
 **Race:** Half-Elf-Half-Drow  
 **Class:** [[Sorcerer]]
 

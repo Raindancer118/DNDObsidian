@@ -23,6 +23,6 @@ aliases:
 >Ruris Vater ist ein Werwolf und hat ihre Mutter umgebracht. [[Ruri's Schwester]] geht allerdings aufgrund der Bissspuren davon aus, dass Atto der Mörder war.
 
 >[!INFO] **Backstory**
->Backstory des Charakters, wenn relevant
+>Ruri ist in [[Elarian]] aufgewachsen, hatte eine eher wohlhabende Familie, doch wurde tief erschüttert, als eines Tages ihre Mutter starb.
 
 #analysis 

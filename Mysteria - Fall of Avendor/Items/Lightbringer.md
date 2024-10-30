@@ -5,7 +5,7 @@
 **Weapon Bonus:** +3  
 **Damage:** 1d10 + 3 (Radiant)
 
-> **Description:**  
+> [!INFO] **Description:**  
 > Lightbringer is a majestic longsword whose blade sparkles in sunlight and emanates a warm, radiant glow in dark environments. The hilt is crafted from the finest dark brown wood, wrapped in silver wire, and the crossguard is shaped like stylized wings, giving the impression that the blade could take flight at any moment.
 
 ### **Properties:**
