@@ -5,6 +5,8 @@
 **Race:** Hund
 **Bound to:** [[Ruri]]
 
+![[Ruri & Atto.jpg]]
+
 >[!SUMMARY] **Zusammenfassung**
 >Atto ist mit Ruri aufgewachsen und hat den Tod ihrer [[Ruri's Mutter|Mutter]] miterlebt. Er hat eine starke Abneigung gegen ihren Vater.
 
