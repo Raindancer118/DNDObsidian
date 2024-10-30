@@ -1,3 +1,5 @@
+# <font color = 4d88fd>Cutscene - Altherion Estralith - Session 19</font>
+
 Ihr befindet euch in einem düsteren Raum, erhellt vom flackernden Schein vereinzelter Kerzen. Ein Mann, gekleidet in einfache, aber würdevoll wirkende Gewänder, steht über einem alten Tisch gebeugt. Vor ihm liegen verstreute Karten und vergilbte Pergamente, die von einer verlorenen Vergangenheit zeugen.
 
 Er spricht mit ruhiger, eindringlicher Stimme:  
