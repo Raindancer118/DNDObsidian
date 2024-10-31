@@ -22,4 +22,7 @@
 >[!INFO] **Backstory**  
 >Altherion war der **letzte König der [[Lost Lands]]**. Alles war gut, doch dann geschah der Angriff ... Die Ländereien wurden von Monstern überrannt. Altherions einziges Ziel ist, sein wunderbares Königreich wiederherzustellen.
 
+>[!HINT] **16 Personalities**
+>https://www.16personalities.com/profiles/entj-t/m/hr1j8o10r
+
 #NPC 
