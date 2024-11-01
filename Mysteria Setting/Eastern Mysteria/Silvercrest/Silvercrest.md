@@ -3,7 +3,7 @@
 Die Stadt Silvercrest trägt auch den eleganten Namen "Mysteria City". Regiert vom High Mage Council of Silvercrest, ist die Stadt eine der modernsten Mysterias. 
 
 #### Verbot von Magie
-In ganz Silvercrest ist die Nutzung von Magie unter der Androhung der Todesstrafe verboten. Die Wachen des Magierrates laufen herum, um dies zu kontrollieren. Sie tragen [[Silvercrest |Brillen]], die über eine Variation des "Detect Magic"-Spells Magie sichtbar machen können.
+In ganz Silvercrest ist die Nutzung von Magie unter der Androhung der Todesstrafe verboten. Die Wachen des Magierrates laufen herum, um dies zu kontrollieren. Sie tragen [[Silvercrest's SpectraGuard|Brillen]], die über eine Variation des "Detect Magic"-Spells Magie sichtbar machen können.
 
 #### Der Lufthafen
 Der Lufthafen der Stadt ist eine Sehenswürdigkeit schlechthin. Auf verschiedenen Ebenen liegen etwas über 200 Landepads, jedes davon zumindest alle paar Tage in Verwendung. Die Kais liegen weit über der tatsächlichen Stadt; etwa 1km über den Spitzen der höchsten Häuser, nur überragt vom Turm des Mage Council. Verbunden sind die Stadt und der Lufthafen über mehrere Aufzüge, die sich über gläserne Röhren in die Tiefe ziehen und in denen metallene Kapseln auf und ab rauschen. Waren werden ausgeladen; geschäftig werden Schiffe be- und entladen und legen an und ab. 
