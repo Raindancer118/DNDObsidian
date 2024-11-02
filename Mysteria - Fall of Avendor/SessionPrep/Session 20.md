@@ -11,4 +11,4 @@ Sie wartet einen Moment auf die Antwort. Kaum ist sie gegeben, fahren aus dem Bo
 
 Die Vogelscheuche ist sicherlich im [[Shadowblades|Shadowblade]]-[[Shadowblades HQ|Tower]] geblieben?
 
-Falls die 
+Falls Silvercrest mal abstürzt: "TIMBER"
