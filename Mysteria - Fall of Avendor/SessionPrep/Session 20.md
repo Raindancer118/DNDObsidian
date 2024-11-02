@@ -10,3 +10,5 @@ Sie hält kurz inne, dann fügt sie hinzu: "Ihr habt Besuch an Deck. Was dagegen
 Sie wartet einen Moment auf die Antwort. Kaum ist sie gegeben, fahren aus dem Boden des Decks arcane Geschütztürme empor und eröffnen das Feuer auf die verbliebenen Gegner. In weniger als zwei Runden ist die Bedrohung ausgeschaltet, und das Schiff kehrt wieder in einen Zustand der Ruhe zurück.
 
 Die Vogelscheuche ist sicherlich im [[Shadowblades|Shadowblade]]-[[Shadowblades HQ|Tower]] geblieben?
+
+Falls die 
