@@ -16,9 +16,6 @@ aliases:
 >Ruri hat den Tod ihrer [[Ruri's Mutter|Mutter]] immer **noch nicht ganz verarbeitet**. Ruri träumt manchmal von Werwölfen -> Albträume!
 >Ruri wünscht sich über alles, mit Tieren sprechen zu können.
 
->[!IMPORTANT] **Relationships**
->❤️ Ruri ist seit einiger Zeit bereits mit [[Skoros]] zusammen und würde für ihn so ziemlich alles tun.
-
 >[!DANGER] **RURI'S VATER**
 >Ruris Vater ist ein Werwolf und hat ihre Mutter umgebracht. [[Ruri's Schwester]] geht allerdings aufgrund der Bissspuren davon aus, dass Atto der Mörder war.
 

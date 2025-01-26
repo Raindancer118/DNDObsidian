@@ -1,6 +1,7 @@
 ---
 aliases:
   - Philip
+  - Skoros
 ---
 # <font color = 4d88fd>Skoros</font>
 
@@ -10,14 +11,15 @@ aliases:
 **Class:** Fighter
 **Level:** 10
 
+>[!WARNING] Skoros ist in [[Chapter 4 - The Lost Lands - Session 21]] von [[Telvoc]] und einer Wache Silvercrests getötet worden.
+
 >[!SUMMARY] **Zusammenfassung**
 
 >[!DANGER] **Skoros hat noch niemanden getötet.**
 
->[!IMPORTANT] **Relationships**
-> ❤️ Skoros ist mit [[Ruri]] zusammen.
-
 >[!INFO] **Backstory**
 >Skoros ist Wache an der [[Hells Climb's University of Applied Magics]] gewesen. Dort hat er von der Hochschulleitung den Auftrag bekommen, die [[Shadowblades]] auszuspionieren. Dies hat ihm sehr gut gepasst, da er aus persönlichem Interesse ohnehin mit wollte. Er wird nun für seinen Auftrag bezahlt, ohne aktiv etwas dafür zu tun.
+
+>[!INFO] FINANCIAL: Skoros erhält etwas über 4 GP pro Woche, wo er unterwegs ist.
 
 #analysis 
