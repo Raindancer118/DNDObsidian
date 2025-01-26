@@ -6,6 +6,6 @@ _Host:_ HostName
 >[!SUMMARY]
 >Wir sind in Silvercrest angekommen und haben dort ein wenig Zeit verbracht. Es hat eine Weile gedauert, herauszufinden, wo die Orbs sind, doch mit der Hilfe von Elara und Zephyrion, die auch unser Schiff geupgradet haben, konnten wir das Rätsel lösen. Wir haben den Orb of Darkness und den Orb of Life gestohlen und uns anschließend auf den Weg gemacht, Silvercrest so schnell wie möglich zu verlassen, bevor die Stadt zusammenbrach. Als wir davonflogen, haben wir eine riesige Explosion hinter uns gesehen und Sassy hat mitgeteilt, dass es keine Überlebenden gab.
 
-SessionRecap
+>[!DANGER] Achtung: Levelup auf Lvl
 
 #analysis
