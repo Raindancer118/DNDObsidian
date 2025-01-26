@@ -12,6 +12,7 @@
 >Beziehungen zu anderen Charakteren
 
 >[!INFO] **Backstory**
->Backstory des Charakters, wenn relevant
+>Elaras Eltern starben durch ihre eigene Erfindung, genau wie später auch ihr Mann und ihr Kind. Nach dem Tod beider schuf sie in ihrer Wohnung ein Flucht-System, um im Falle des Falles entkommen zu können, und außerdem einen Bunker in ihrem Keller.
+
 
 #NPC
