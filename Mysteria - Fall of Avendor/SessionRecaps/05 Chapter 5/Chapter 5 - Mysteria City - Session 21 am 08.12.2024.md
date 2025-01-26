@@ -4,7 +4,7 @@ _Anwesende Spieler:_ [[Telvoc|Dominik]], [[Verin Starbright|Johanna]], [[Ruri|Me
 _Host:_ Merle
 
 >[!SUMMARY]
-Die Gruppe hat
+Wir haben Silvercrest verlassen und uns aufgemacht, um uns auch den Orb of Fire zu holen, der wohl 
 
 SessionRecap
 
