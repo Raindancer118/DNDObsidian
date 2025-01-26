@@ -1,4 +1,2 @@
 # <font color = 4d88fd>Prep - Session 22</font>
-Tiamat ist tot? 
-
-
+Tiamat ist tot! Das Dorf, in das die Gruppe letztes Mal gekommen ist, ist darüber entsetzt. Der Fluch, den Tiamat über sie gesprochen hatte, ist noch nicht ganz aufgehoben, und so machen sie das einzig sinnvolle - Verantwortliche suchen. Wer würde da besser passen als eine Gruppe Abenteurer, deren Gesichter niemandem so richtig bekannt vorkommen?
