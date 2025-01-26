@@ -10,3 +10,6 @@ Die Brille funktioniert mit einer abgewandelten Version des "Detect Magic"-Spell
 #### Sicherheit
 Die SpectraGuard-Brillen sind gegen Fremdzugriffe geschützt, sodass sie einen Iris-Scan erfordern, wenn sie aufgesetzt werden. [[Zephyrion]] und [[Elara Mistral]] oder ähnliche Bastler sind allerdings in der Lage, die Brillen so zu manipulieren, dass sie diesen umgehen können. Dies kostet allerdings etwa 200 GP, abhängig davon, wie gut die Kunden mit den Bastlern vertraut sind.
 Wenn die Dienstleister 
+
+>[!HINT] Elara arbeitet an einer weiteren Version der SpectraGuard-Brillen, die in der Lage sein soll, magische Items zu replizieren.
+
