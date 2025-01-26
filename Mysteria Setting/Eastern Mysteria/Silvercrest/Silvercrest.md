@@ -1,4 +1,5 @@
 # <font color = 4d88fd>Silvercrest</font>
+>[!HINT] Im Rahmen der [[Chapter 4 - The Lost Lands - Session 20 am 03.01.2024]] wurde Silvercrest durch die [[Shadowblades]] zerstört, als der Orb of Life und der Orb of Darkness entwendet wurden.
 
 Die Stadt Silvercrest trägt auch den eleganten Namen "Mysteria City". Regiert vom High Mage Council of Silvercrest, ist die Stadt eine der modernsten Mysterias. 
 
@@ -10,5 +11,3 @@ Der Lufthafen der Stadt ist eine Sehenswürdigkeit schlechthin. Auf verschiedene
 
 #### Verteidigung
 Silvercrest ist umgeben von drei Stadtmauern, jede davon höher als die davor. Die innerste reicht bis zu den Wolken hoch und ist etwas über 300m dick. Die Mauern sind von außen mit Dornen versehen und in den Gräben dazwischen tummeln sich alle möglichen Monster und Konstrukte. Durchgänge durch die Mauern gibt es nicht; der einzige Weg, in die Stadt oder wieder heraus zu kommen, ist über Luftschiffe. Schwere Geschütze sind auf den Mauern angebracht und darauf vorbereitet, alles vom Himmel zu schießen, was der Stadt gefährlich werden könnte. Für den Fall der Fälle hat die Stadt außerdem noch ein Drachen-Golem, das in dem Turm des Mage Council untergebracht ist.
-
-#### Der High Mage Council of Silvercrest
