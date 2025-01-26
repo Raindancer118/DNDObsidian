@@ -1,4 +1,4 @@
-# <font color = 4d88fd>Chapter 5 - Tiamat's Vermächtnis - Session 21 am 08.12.2024</font>
+# <font color = 4d88fd>Chapter 5 - Tiamat's Vermächtnis - Session 23 am 08.12.2024</font>
 
 _Anwesende Spieler:_ [[Telvoc|Dominik]], [[Verin Starbright|Johanna]], [[Ruri|Merle]], [[Maevvan|Thies]]
 _Host:_ [[Ruri|Merle]]
