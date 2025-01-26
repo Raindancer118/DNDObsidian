@@ -11,5 +11,6 @@ aliases:
 >[!INFO]
 >Die Schwarze Legion hat gerade zwei Orbs in ihrem Besitz:
 >- Den [[Orb of Time]] und 
->- Den [[Orb of Water]]
+>- Den [[Orb of Water]], sowie
+>- Den [[Orb of Fire]] 
 
