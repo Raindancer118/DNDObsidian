@@ -8,7 +8,7 @@ aliases:
 **Spieler:** Johanna
 **Origin:** *Origin-Character*
 **Class:** [[Cleric]]
-**Level:** 10
+**Level:** 12
 Race: [[Aasimar]]
 
 >[!SUMMARY] **Zusammenfassung**

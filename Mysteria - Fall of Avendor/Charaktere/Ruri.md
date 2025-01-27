@@ -8,7 +8,7 @@ aliases:
 **Origin:** [[Chapter 4 - The Lost Lands - Session 20 am 03.01.2024]]
 **Race:** Genasi (Water)
 **Class:** Monk 
-**Level:** 10
+**Level:** 12
 
 ![[Ruri.jpg|300]]
 
