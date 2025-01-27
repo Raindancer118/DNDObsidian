@@ -8,7 +8,7 @@ aliases:
 >Die Shadowblades sind eine in [[Kingdom of Avendor|Avendor]] ansässige Söldnergilde, die dafür bekannt ist, quasi unbesiegbar zu sein.
 
 >[!INFO] **Mitglieder**
->**Anführerin: [[Verin Starbright]]**, Cleric of Thalnir
+>**Anführerin: [[Verin Starbright]]**, Cleric of [[Thalnir]]
 >[[Ga Gaw|Gary]]
 >[[Solu]]
 >[[Maevvan]]
