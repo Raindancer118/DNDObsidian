@@ -15,6 +15,9 @@ Die Geflüchteten haben wir mitgenommen, nach Sildoria. [[Verin Starbright|Verin
 
 Wir sind einige Zeit später in Sildoria eingetroffen und haben dort die Tempel der Gottheiten besichtigt. [[Olaf]] starb, als er die Strickleiter des Schiffes nach unten kletterte und [[Atto]] diese in diesem Moment durchbiss. [[Maevvan]] opferte seine Leiche an Morvok.
 
+Verin hat am ersten Meeting der Hohepriester Thalnirs teilgenommen. Zwischendurch wurde erwähnt, dass Gäste in den nächsten Tagen erwartet würden, und Verin fand heraus, dass es sich dabei um die schwarze Legion handelt. 
+Verin versuchte, mit ihrem Vorgesetzten darüber zu sprechen, doch dieser 
+
 [[Sylthar]] indes marschierte in die Kirche Morvoks und entschied, dass es an der Zeit sei, die Kirche auf Gewinn auszurichten und zu vergrößern, weshalb er einen Kreuzzug gegen die neue Kirche von [[Telvoc]] startete.
 
 #analysis
