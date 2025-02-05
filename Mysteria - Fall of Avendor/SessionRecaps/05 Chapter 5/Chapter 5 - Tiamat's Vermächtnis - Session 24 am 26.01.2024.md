@@ -11,6 +11,8 @@ Im Dorf sind wir auf das Haus von [[Olaf]] und seiner Mutter geklettert, wo [[Ol
 
 Wir haben anschließend fast alle Dorfbewohner mit an Bord unseres Schiffes genommen und wollten auch die Anführerin des Dorfes noch retten, doch diese sprang in die Lava, als wir ihr die Rüstung wegnahmen. Sie schien der Meinung zu sein, dass Tiamat wieder zurückkehren und uns alle retten würde. Hinter uns versank das Dorf [[Byrokyl]] in der Lava.
 
-Die Geflüchteten haben wir mitgenommen, nach Sildoria. [[Verin Starbright|Verin]] hat einen Brief erhalten, der sie zu einem Treffen aller Hohepriester [[Thalnir|Thalnirs]] beordert hat, und außerdem wurden über den Dragon Express die Einladungen für 
+Die Geflüchteten haben wir mitgenommen, nach Sildoria. [[Verin Starbright|Verin]] hat einen Brief erhalten, der sie zu einem Treffen aller Hohepriester [[Thalnir|Thalnirs]] beordert hat, und außerdem wurden über den Dragon Express die Einladungen für die Hochzeit von Verin und Thalnir zugestellt.
+
+Wir sind einige Zeit später in Sildoria eingetroffen und haben dort die Tempel der Gottheiten besichtigt. Olaf starb, als er die Strickleiter des Schiffes nach unten kletterte und Atto diese in diesem Moment durchbiss. Maevvan opferte seine Leiche an Morvok.
 
 #analysis
