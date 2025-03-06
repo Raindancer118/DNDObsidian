@@ -4,7 +4,7 @@ aliases:
 ---
 # <font color = 4d88fd>Telvoc</font>
 **Spieler:** Dominik
-**Origin:** Session 17
+**Origin:** [[Chapter 3 - The Orb of Air - Session 17 am 29.09.2024]]
 **Class:** [[Rogue]]
 **Level:** 13
 
