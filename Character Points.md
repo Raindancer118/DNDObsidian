@@ -8,6 +8,9 @@
 6. **1 LEVEL** - Ihr könnt eines eurer Level gegen *15 Punkte* eintauschen.
 7. **1.000 GP** - Ihr könnt 1.000 GP gegen *4 Punkte* eintauschen.
 8. **TEAMPLAY** - Für außergewöhnlich gutes Teamplay erhaltet ihr von mir *1 Punkt*.
+9. **ABSURDES GLÜCK** - Für unverschämtes Glück mit einer Nat20, was dafür sorgt, dass eine besonders lustige oder absurde Situation ersteht, gibt es *1 Punkt* (at your DM's Discretion)
+10. **ROASTED** - Dafür, einen Gegner mit mindestens 30 HP wortwörtlich zu Tode zu roasten, erhaltet ihr *1 Punkt*.
+11. **RETTUNG** - Sich selbst in Todesgefahr zu bringen, um das Leben des Teams oder eines Charakters zu retten, wird mit *1 Punkt* awarded.
 ### How to use Character Development Points
 1. **0 PUNKTE** - *Punkte an andere Spieler zu transferieren* kostet euch jetzt - gar nichts mehr! Nur schlappe 5 GP Gebühr und ihr seid dabei.
 2. **1 PUNKT** - Einen Punkt könnt ihr einsetzen, um eines von 2 Dingen zu erhalten:
