@@ -8,13 +8,13 @@ Es fühlt sich an wie ein Abschied.
 
 **Die erste Vision.**
 
-Du stehst auf einer Anhöhe, die du nicht kennst, doch jeder Stein unter deinen Füßen fühlt sich an wie eine Erinnerung. Estralith liegt vor dir – oder das, was davon übrig ist. Der Himmel steht in Flammen, blutrot und zerbrochen. Schwarz-Rote Wolken hängen tief am Himmel, der in Flammen steht, Asche fällt in leisen Wirbeln auf die goldenen Türme, die nacheinander in sich zusammenbrechen.
+Du stehst auf einer Anhöhe, die du nicht kennst, doch jeder Stein unter deinen Füßen fühlt sich an wie eine Erinnerung. Estralith liegt vor dir – oder das, was davon übrig ist. Schwarz-Rote Wolken hängen tief am Himmel, der in Flammen steht, blutrot und zerbrochen. Asche fällt in leisen Wirbeln auf die goldenen Türme, die nacheinander in sich zusammenbrechen.
 
 Irgendwo unter dir schreit jemand. Ein Echo, das an deinen Sinnen zerrt.
 
-Zwischen den Ruinen liegt eine Gestalt. Dein Herz schlägt schneller, als du sie siehst – es bist du. Gezeichnet von Jahren, von Schicksal. Du siehst nach oben, siehst, wie der Himmel nicht in Licht aufbricht, sondern in absolute Dunkelheit.
+Zwischen den Ruinen liegt eine Gestalt. Dein Herz schlägt schneller, als du sie ansiehst ... du strengst dich an, doch kannst die Person nicht erkennen, obwohl du ihr Gesicht siehst. Gezeichnet von Jahren, von Schicksal. Du weißt, wer sie ist, doch irgendetwas verhindert, dass du sie erkennst.  Du siehst nach oben, siehst, wie der Himmel nicht in Licht aufbricht, sondern in absolute Dunkelheit.
 
-**Eine Stimme flüstert, nicht von außen, sondern aus der Weite deines eigenen Geistes.**
+**Von überall und gleichzeitig von nirgendwo wispert eine Stimme.**
 
 _"Wenn die Schatten das Licht ersticken und der Himmel brennt,  
 wird das Letzte Licht geboren.  
@@ -29,11 +29,11 @@ Ein Windstoß reißt an dir, zerrt dich fort. Estralith vergeht im Rauch.
 
 Du fällst nicht. Du stehst – auf nichts. Unter dir erstreckt sich ein Riss, endlos, schwärzer als jede Nacht. Und über diesem Abgrund schweben zwei Klingen.
 
-Lightbringer – reines Licht, pulsierend in makelloser Schönheit.
+Eine helle Waffe, eine strahlend schön, glühend von himmlischen Licht.
 
 Daneben – eine andere Klinge. Dunkel, aus einem Stein, der nie geschmiedet, sondern geboren wurde. Ihr Inneres pulsiert mit flüsternder Kraft. Zwei Hälften, die sich nie berühren.
 
-Der Riss unter ihnen dehnt sich weiter aus, als würde die Zeit selbst sie auseinanderreißen.
+Der Riss unter ihnen dehnt sich weiter aus, als würde die Zeit selbst sie auseinanderreißen. Die Waffen fallen, versinken im unendlichen Schwarz.
 
 _"Doch kein Licht steht allein.  
 Zwei Klingen, geformt aus demselben Feuer,  
@@ -41,17 +41,17 @@ getrennt durch Zeitalter, vereint im letzten Kampf.
 Das eine bringt Licht, das andere den Tod –  
 doch nur zusammen können sie das Schicksal schmieden."_
 
-Der Abgrund reißt auf, und du fällst – wieder.
+Der Abgrund reißt auf, und du fällst – wieder. 
 
 ---
 
 **Die dritte Vision.**
 
-Regen peitscht in dein Gesicht. Wind zerrt an deinem Körper. Du stehst in einem Sturm, so wild, dass du kaum atmen kannst. Eine einzelne Gestalt trotzt den Elementen.
+Regen peitscht in dein Gesicht. Wind zerrt an deinem Körper. Du stehst in einem Sturm, so wild, dass du kaum atmen kannst. Eine einzelne Gestalt trotzt den Elementen, während sich weiße Schlieren um seinen Körper schlingen. 
 
-Er steht mit erhobener Klinge, das Obsidian in seinen Händen glänzt kalt und still. Seine Umrisse sind verzerrt, doch du weißt, wer es ist. Die Silhouette ist dir vertraut – Eric.
+Er steht mit erhobener Klinge, das Obsidian in seinen Händen glänzt kalt und still. Seine Umrisse sind verzerrt, doch du weißt, wer es ist. Du kennst diese Person. Doch irgendetwas, genau wie eben, erlaubt dir nicht, sie zu erkennen ...
 
-Um ihn herum liegen die gefallenen Feinde, zerborsten im Licht eines Schwertes, das nichts vergibt. Und dort, zwischen ihnen, siehst du dich selbst.
+Um ihn herum liegen die gefallenen Feinde, zerborsten im Licht eines Schwertes, das nichts vergibt. Aus den Reihen der Leichen starren dich deine eigenen Augen unverwandt an.
 
 _"Sein Herz wird den Sturm tragen,  
 den Pfad durch Dunkelheit und Zweifel bahnen.  
@@ -64,11 +64,11 @@ Der Wind bricht ab. Stille.
 
 **Die letzte Vision.**
 
-Du stehst am Rand eines endlosen Abgrunds. Vor dir – ein Schleier, gleißend aus purem Licht. Doch es ist nicht warm. Es ist nicht freundlich. Es ist nicht Erlösung.
+Du stehst am Rand eines endlosen Abgrunds. Vor dir, schwebend über dem Nichts – ein Schleier, gleißend aus purem Licht. Doch es ist nicht warm. Es ist nicht freundlich. Es ist nicht Erlösung.
 
-Thalnir steht hinter dir. Zum ersten Mal in deinem Leben ist er vollkommen still. Kein Rat, kein Trost, keine Antwort. Sein Blick liegt auf dem Schleier, nicht auf dir.
+Thalnir steht hinter dir. Seine breite Figur starrt in die Leere. Zum ersten Mal in deinem Leben ist er vollkommen still. Kein Rat, kein Trost, keine Antwort. Sein Blick liegt auf dem Schleier, nicht auf dir.
 
-Und du weißt, warum.
+Und du weißt, warum. Ein grausames Gefühl steigt in dir auf.
 
 Es ist Zeit.
 
@@ -90,3 +90,5 @@ Du bist zurück.
 Doch etwas in dir ist geblieben. Irgendwo, zwischen den Visionen, zwischen den flüsternden Worten, zwischen dem Licht und der Dunkelheit, hat etwas dich verlassen.
 
 Oder etwas hat dich gefunden.
+
+Als du die Augen wieder aufschlägst, weißt du es, eindeutig. Wenn du stirbst, wird es das letzte Mal gewesen sein.
