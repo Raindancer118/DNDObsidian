@@ -6,7 +6,7 @@ aliases:
 **Spieler:** Ella
 **Origin:** *Origin-Character*
 **Class:** [[Paladin]]
-**Level:** 12
+**Level:** 10
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

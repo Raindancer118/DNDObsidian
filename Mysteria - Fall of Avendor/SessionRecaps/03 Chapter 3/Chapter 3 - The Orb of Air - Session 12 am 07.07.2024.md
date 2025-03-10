@@ -22,6 +22,6 @@ Alles in Allem kehrten die drei nach einer sehr erschöpfenden und ereignisreich
 
 Etwa eine Stunde verlief das Auslaufen sehr ruhig, doch dann begann [[Idril]] auf einmal zu keuchen. Ihre Stirn war glühend heiß und sie klappte einfach zusammen. Von zwei Stichwunden, die bemerkenswert nach einem Vampir-Biss aussahen, an ihrem Hals aus breitete sich ein schwarzes Netz an Adern unter ihrer Haut auf ihr Herz aus zu.
 
-[[Verin Starbright]] rannte in den Gebetsraum, um herauszufinden, wie [[Idril]] zu heilen wäre, doch [[Gadia]] und [[Thalnir]] trübten unsere Hoffnungen. Ausschließlich über einen Wish-Spell oder über Töten und Wiederbeleben wäre [[Idril]] zu retten. Ansonsten gäbe es in Enervia eine Person, die Tinkturen braut. Allerdings wäre nicht sicher, ob die helfen könnten ...
+[[Verin Starbright]] rannte in den Gebetsraum, um herauszufinden, wie [[Idril]] zu heilen wäre, doch [[Gadia]] und Thalnir trübten unsere Hoffnungen. Ausschließlich über einen Wish-Spell oder über Töten und Wiederbeleben wäre [[Idril]] zu retten. Ansonsten gäbe es in Enervia eine Person, die Tinkturen braut. Allerdings wäre nicht sicher, ob die helfen könnten ...
 
 #analysis

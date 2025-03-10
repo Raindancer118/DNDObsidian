@@ -10,8 +10,6 @@ aliases:
 **Level:** 10
 Race: [[Aaracockra]]
 
->[!WARNING] Daniel ist auf eigenen Wunsch hin aus der Kampagne ausgeschieden.
-
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters
 

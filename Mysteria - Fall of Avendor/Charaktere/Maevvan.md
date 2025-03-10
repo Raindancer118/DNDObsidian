@@ -6,7 +6,7 @@ aliases:
 **Spieler:** Thies
 **Origin:** *Origin-Character*
 **Class:** [[Druid]]
-**Level:** 12
+**Level:** 10
 Race: [[Dwarf]]
 
 >[!SUMMARY] **Zusammenfassung**
