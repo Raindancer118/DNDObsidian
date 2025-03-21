@@ -1,3 +1,4 @@
+# <font color = 4d88fd>Drax' Rückkehr</font>
 ## Einleitung – Der Abgrund zwischen zwei Welten
 
 Drax, du bist verschwunden – nicht freiwillig, nicht geplant. Doch jetzt bist du zurück.
@@ -75,6 +76,7 @@ Tag und Nacht verschwammen. Du wusstest nicht, wie lange du dort warst.
 Das einzige Geräusch waren deine eigenen Gedanken – und manchmal Schritte, weit entfernt.
 
 Manchmal kam Kael Veymar.  
+
 Manchmal kam eine andere Stimme – Lady Isidora.
 
 ---

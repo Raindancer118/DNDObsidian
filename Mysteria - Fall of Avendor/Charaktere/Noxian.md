@@ -4,6 +4,7 @@
 **Origin:** [[Session 24 am ]]
 **Race:** Rasse
 **Class:** Fighter (Battlemaster)
+**Character Sheet:** [[Noxian_Charakterbogen.pdf]]
 **Level:** 10
 
 >[!SUMMARY] **Zusammenfassung**
@@ -24,5 +25,25 @@
 >Von Schuldgefühlen geplagt verließ Noxian die "Swords for Sale". Er konnte nicht länger in einer Gruppe bleiben, die ihn ständig an seinen verlorenen Freund erinnerte. Stattdessen widmete er sich fortan dem Reisen, suchte nach Hinweisen über das Verschwinden seiner Eltern und verdingte sich als Kämpfer, wann immer es nötig war.
 >
 >Seine schwierige Kindheit prägte ihn stark – er ist nicht unbedingt gierig, aber extrem geizig und gibt nur widerwillig Geld für Luxusgüter aus. Noch heute nutzt er dieselben abgenutzten Waffen, Rüstungen und Ausrüstungsgegenstände, solange sie funktional sind – und wenn er etwas Neues braucht, ist er nicht abgeneigt, es von Banditen zu "borgen". Dank seiner früheren Arbeiten in der Schmiede seines Heimatdorfes kann er seine Ausrüstung selbst instand halten, was ihm erlaubt, seine knappen Münzen weiter zu sparen.
+
+> [!info]+ **Notizen aus Noxian's Charaktererstellung**
+> Noxian - Battlemaster Fighter  
+> 
+> - Eltern verschwunden → leben noch?  
+> - Goliath (Bff) gestorben bei Auftrag  
+>   → Monster wurde nach Scheitern von Swords for Sale von den Shadowblades besiegt  
+> - Etwas geringere Wertschätzung für Magier  
+> - Eher Einzelgänger → eher keine Hilfe holen  
+> - Introvertiert  
+> - Rapier vom BFF → sieht mittlerweile ein wenig abgenutzt aus  
+>   → wird hin und wieder bearbeitet  
+> - Sieht gerne Sachen brennen (aber nicht wirklich ein Pyromane)  
+> - Physische Kraft > Magie  
+> - Reflektion nur nach besonderen Ereignissen  
+> - Act First, Ask later  
+> - Angeln als Hobby  
+> - Alpträume → Trauma → Goliath?  
+> - Neue Bestimmung im Leben wäre das Optimum  
+> - Falls sich die Option bietet, gern Magie lernen  
 
 #analysis 
