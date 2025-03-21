@@ -6,7 +6,7 @@ aliases:
 **Spieler:** Lorenz
 **Origin:** session
 **Class:** [[Monk]]
-**Level:** 10
+**Level:** ![[Level]]
 Race: [[Tortle]]
 
 >[!SUMMARY] **Zusammenfassung**

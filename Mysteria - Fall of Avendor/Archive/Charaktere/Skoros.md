@@ -8,7 +8,7 @@ aliases:
 **Origin:** [[Chapter 3 - The Orb of Air - Session 17 am 29.09.2024]]
 **Race:** High Elf
 **Class:** Fighter
-**Level:** 10
+**Level:** ![[Level]]
 
 >[!SUMMARY] **Zusammenfassung**
 

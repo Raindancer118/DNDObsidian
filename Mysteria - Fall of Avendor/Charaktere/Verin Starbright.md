@@ -8,11 +8,11 @@ aliases:
 **Spieler:** Johanna
 **Origin:** *Origin-Character*
 **Class:** [[Cleric]]
-**Level:** 10
+**Level:** ![[Level]]
 Race: [[Aasimar]]
 
 >[!SUMMARY] **Zusammenfassung**
->Kurze Zusammenfassung des Charakters
+>**Verin Starbright** ist eine Hohepriesterin Thalnirs und eine tief gläubige Klerikerin, die in Avendor sowohl spirituelle als auch politische Verantwortung trägt. Als **Origin-Character** ist sie von Beginn an eine zentrale moralische Instanz innerhalb der Gruppe, geprägt von Mitgefühl, Pflichtbewusstsein und einem unerschütterlichen Glauben an das Licht – auch wenn dieser zunehmend auf die Probe gestellt wird.
 
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant

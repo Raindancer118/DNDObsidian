@@ -6,7 +6,7 @@ aliases:
 **Spieler:** Amié
 **Origin:** session
 **Class:** [[Rogue]]
-**Level:** 10
+**Level:** ![[Level]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

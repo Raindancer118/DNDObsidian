@@ -6,11 +6,11 @@
 **Class:** [[Wizard]]
 
 >[!SUMMARY] **Zusammenfassung**
->Xanathar ist ein junger High-Elf, der gerade seinen Master an der [[Hells Climb's University of Applied Magics]] macht. Er ist sehr wohlhabend und spezialisiert auf Magische Artefakte. Er hat einen [[Xanathar's Villa|dauerhaften Wohnsitz]] in [[Hell's Climb]].
+>Xanathar ist ein junger High-Elf, der gerade seinen Master an der [[Hells Climb's University of Applied Magics]] macht. Er ist sehr wohlhabend und spezialisiert auf Magische Artefakte. Er hat einen [[Mooncrest Mansion|dauerhaften Wohnsitz]] in [[Hell's Climb]].
 >Xanathar ist Eigentümer der [[Bank of Mysteria]] und besitzt dort das [[Vault 1 - Mooncrest Family]]
 
 >[!IMPORTANT] **Relationships**
->[[Verin Starbright]]: Xanathar ist mehr oder weniger mit [[Verin Starbright]] zusammen.
+>Xanathar und [[Verin Starbright]] heiraten! Es wurde bereits eine [[VERIN & XANATHAR.pdf|Einladung]] verschickt und die Hochzeit rückt näher. Sie wird in [[Mooncrest Mansion]] stattfinden.
 
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant
