@@ -5,6 +5,8 @@ aliases:
   - Johanna
 ---
 # <font color = 4d88fd>Verin Starbright</font>
+![[WhatsApp Bild 2025-03-21 um 15.34.42_e165ef90.jpg|300]]
+![[WhatsApp Bild 2025-03-21 um 15.34.42_68d687c2.jpg|300]]
 **Spieler:** Johanna
 **Origin:** *Origin-Character*
 **Class:** [[Cleric]]

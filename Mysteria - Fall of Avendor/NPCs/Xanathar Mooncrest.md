@@ -1,5 +1,5 @@
 # <font color = 4d88fd>Xanathar Mooncrest</font>
-
+![[Xanathar.jpg|300]]
 **NPC**
 **Origin:** [[Chapter 3 - The Orb of Air - Session 16 am 15.09.2024|Session 16]]
 **Race:** High-Elf mit einem Touch Astral-Elf
