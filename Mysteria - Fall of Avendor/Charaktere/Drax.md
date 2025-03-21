@@ -20,4 +20,7 @@ aliases:
 >[!INFO] **Backstory**
 >Backstory des Charakters, wenn relevant
 
+>[!INFO] **Drax Rückkehr**
+>Siehe [[Drax' Rückkehr]]
+
 #analysis 
