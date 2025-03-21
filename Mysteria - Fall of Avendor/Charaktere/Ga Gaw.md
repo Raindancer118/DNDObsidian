@@ -7,7 +7,7 @@ aliases:
 **Spieler:** Daniel
 **Origin:** *Origin-Character*
 **Class:** [[Sorcerer]]
-**Level:** 10
+**Level:** ![[Level]]
 Race: [[Aaracockra]]
 
 >[!SUMMARY] **Zusammenfassung**

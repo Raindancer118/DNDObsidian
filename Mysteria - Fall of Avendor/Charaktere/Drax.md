@@ -9,7 +9,7 @@ aliases:
 **Origin:**  *Origin-Character* 
 **Race:** Half-Elf
 **Class:** Bard
-**Level:** 10
+**Level:** ![[Level]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters

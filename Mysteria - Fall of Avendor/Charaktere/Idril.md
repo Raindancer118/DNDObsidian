@@ -6,7 +6,7 @@ aliases:
 **Spieler:** Hannah
 **Origin:** *Origin-Character*
 **Class:** [[Druid]]
-**Level:** 10
+**Level:** ![[Level]]
 Race: [[Woodelf]] [[Ascended Vampire]]
 
 >[!SUMMARY] **Zusammenfassung**

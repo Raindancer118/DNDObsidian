@@ -5,7 +5,7 @@
 **Race:** Rasse
 **Class:** Fighter (Battlemaster)
 **Character Sheet:** [[Noxian_Charakterbogen.pdf]]
-**Level:** 10
+**Level:** ![[Level]]
 
 >[!SUMMARY] **Zusammenfassung**
 >Kurze Zusammenfassung des Charakters
