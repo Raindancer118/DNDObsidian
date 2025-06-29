@@ -8,4 +8,3 @@
 - Kultisten
 - Heiler
 
-Aktuelles Späher-Passwort: 
