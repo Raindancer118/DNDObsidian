@@ -7,3 +7,5 @@
 - Bodyguards
 - Kultisten
 - Heiler
+
+Aktuelles Späher-Passwort: 
