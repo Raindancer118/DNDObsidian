@@ -9,5 +9,16 @@ Altherion - 19
 King of Druegenor - 5
 
 
-Altherion - 8.000 HP
+Altherion - 4.000 HP
 - - 216 = 7.784
+- - 128 = 7.656
+- - 4.000 = 1.656
+
+Elf 1 
+- -41
+
+Zwerg 1
+- -41
+
+King of Druegenor
+- - 41
