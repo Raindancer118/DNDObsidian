@@ -6,4 +6,5 @@ Grobe Idee:
 - Die Hochzeit findet auf einem Außengelände von Mooncrest Mansion statt; es wurden riesige, luftige Zelte aufgestellt; im Hintergrund ist das aufragende Gebäude sichtbar
 
 Details:
-- Verins Brautjungfern sind 
+- Verins Brautjungfern sind Shandri, ihre Aushilfspriesterin aus der Kirche, und einige Tempeldienerinnen der Kirche von Thalnir aus Sylverion.
+- 
