@@ -7,4 +7,3 @@ Grobe Idee:
 
 Details:
 - Verins Brautjungfern sind Shandri, ihre Aushilfspriesterin aus der Kirche, und einige Tempeldienerinnen der Kirche von Thalnir aus Sylverion.
-- 
