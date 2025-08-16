@@ -9,6 +9,8 @@ Richtung frei.
 
 Telvoc gründet eine eigene Fluglinie: 
 - Ether's Dream Transit
+
+Verin wird Schutzpatronin von Estralith
 # Nächste Optionen Kampagne
 1. Ausbreitung von Mysteria in die Welt
 2. Wiederaufbau von Estralith
